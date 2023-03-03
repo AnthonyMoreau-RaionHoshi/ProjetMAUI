@@ -13,25 +13,49 @@
             <!--<MenuFlyoutSubItem Text=" Choix 1
                 <MenuFlyoutItem Text=" Choix 1.1 "/>
             </MenuFlyoutSubItem>-->
-            <MenuFlyoutItem Text=" Choix 2 "
-                            Command="{Binding GoToDetailsPageCommand}"
-                            CommandParameter="Details page"/>
+            <MenuFlyoutItem Text=" Load JSON "
+                            Command="{x:Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}},Path=GetPokemonsToJsonCommand}"/>
         </MenuBarItem>
     </ContentPage.MenuBarItems>
 
-    <Grid ColumnDefinitions="*" RowDefinitions="Auto,*" Padding="20" RowSpacing="20">
-        <Button Grid.Row="0" 
-                HeightRequest="70" 
-                WidthRequest="120" 
-                HorizontalOptions="Start" 
-                Text="Load JSON"
-                Command="{x:Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}},Path=GetPokemonsToJsonCommand}"/>
-        <CollectionView ItemsSource="{Binding Pokemons}" Grid.Row="1">
+    <FlexLayout Wrap="Wrap"
+                Direction="Row"
+                AlignContent="Start"
+                AlignItems="Start">
+        
+        <VerticalStackLayout VerticalOptions="Center"
+                            Padding="10"
+                            Spacing="2">
+            <Image  HeightRequest="150"
+                WidthRequest="150"
+                Source="pic001.png"
+                HorizontalOptions="Center"/>
+            <Label HorizontalOptions="Center" Text="Bulbizar"/>
+        </VerticalStackLayout>
+
+        <CollectionView ItemsSource="{Binding Pokemons}">
             <CollectionView.ItemTemplate>
                 <DataTemplate x:DataType="model:Pokemon">
-                    <Grid Padding="10" ColumnDefinitions="500,*" BackgroundColor="White">
+                    <VerticalStackLayout VerticalOptions="Center"
+                                         Padding="10"
+                                         Spacing="2">
+                        <Image     HeightRequest="100"
+                                   WidthRequest="100"
+                                   Source="{Binding Picture}"
+                                   HorizontalOptions="Center"/>
+                        <Label HorizontalOptions="Center" Text="{Binding name_french}"/>
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </FlexLayout>
+    <!--<Grid ColumnDefinitions="*" RowDefinitions="Auto,*" Padding="20" RowSpacing="20">
+        <CollectionView ItemsSource="{Binding Pokemons}" Grid.Row="2">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:Pokemon">
+                    <Grid Padding="10" ColumnDefinitions="Auto,Auto" BackgroundColor="White">
                         <Frame HeightRequest="125">
-                            <Grid Padding="0" ColumnDefinitions="125,*" BackgroundColor="Grey">
+                            <Grid Padding="0"  ColumnDefinitions="125,200" BackgroundColor="Grey">
                                 <Image
                             Aspect="AspectFill"
                             HeightRequest="100"
@@ -52,6 +76,6 @@
 
             </CollectionView.ItemTemplate>
         </CollectionView>
-    </Grid>
+    </Grid>-->
     
 </ContentPage>

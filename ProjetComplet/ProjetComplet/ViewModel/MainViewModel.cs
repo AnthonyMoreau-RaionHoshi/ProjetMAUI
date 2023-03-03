@@ -9,8 +9,13 @@ public partial class MainViewModel : ObservableObject
 
     MyModelsService myService;
     public ObservableCollection<Pokemon> Pokemons { get; set; } = new();
+    DeviceOrientationServices deviceOrientationServices;
     public MainViewModel(MyModelsService myService)
     {
+        deviceOrientationServices = new DeviceOrientationServices();
+
+        deviceOrientationServices.ConfigureScanner();
+
         this.myService = myService;
     }
     [RelayCommand]

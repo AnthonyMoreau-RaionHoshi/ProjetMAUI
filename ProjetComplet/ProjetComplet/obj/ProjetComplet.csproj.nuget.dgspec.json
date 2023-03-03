@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antho\\source\\repos\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj": {}
+    "C:\\Users\\antho\\Documents\\GitHub\\ProjetMAUI\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antho\\source\\repos\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj": {
+    "C:\\Users\\antho\\Documents\\GitHub\\ProjetMAUI\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antho\\source\\repos\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj",
+        "projectUniqueName": "C:\\Users\\antho\\Documents\\GitHub\\ProjetMAUI\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj",
         "projectName": "ProjetComplet",
-        "projectPath": "C:\\Users\\antho\\source\\repos\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj",
+        "projectPath": "C:\\Users\\antho\\Documents\\GitHub\\ProjetMAUI\\ProjetComplet\\ProjetComplet\\ProjetComplet.csproj",
         "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antho\\source\\repos\\ProjetComplet\\ProjetComplet\\obj\\",
+        "outputPath": "C:\\Users\\antho\\Documents\\GitHub\\ProjetMAUI\\ProjetComplet\\ProjetComplet\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -74,6 +74,10 @@
               "target": "Package",
               "version": "[6.0.548, )",
               "autoReferenced": true
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -181,6 +185,10 @@
               "version": "[6.0.548, )",
               "autoReferenced": true
             },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
               "version": "[6.0.1, )",
@@ -267,6 +275,10 @@
               "target": "Package",
               "version": "[6.0.548, )",
               "autoReferenced": true
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -361,6 +373,10 @@
               "target": "Package",
               "version": "[10.0.22000.194, )",
               "autoReferenced": true
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
