@@ -11,5 +11,6 @@ global using System.Text.Json;
 internal class Globals
 {
     public static List<Pokemon> PokemonList = new List<Pokemon>();
+
     internal static Queue<string> SerialBuffer = new Queue<string>();
 }

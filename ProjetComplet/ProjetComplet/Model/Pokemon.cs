@@ -15,5 +15,6 @@ public class Pokemon: ContentPage
     public string base_Sp_Attack { get;  set; }
     public string base_Sp_Defense { get;  set; }
     public string base_Speed { get;  set; }
+    public string Generation { get;  set; }
     public string Picture { get;  set; }
 }
