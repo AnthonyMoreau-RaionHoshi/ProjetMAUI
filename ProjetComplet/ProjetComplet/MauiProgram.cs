@@ -15,10 +15,10 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
 
-		builder.Services.AddSingleton<MainViewModel>(); // transient pour les pages du type unique (Accueil, paramettres, etc..)
-        builder.Services.AddSingleton<MainPage>();
+		builder.Services.AddSingleton<MainViewModel>();
+		builder.Services.AddSingleton<MainPage>();
 		
-        builder.Services.AddTransient<DetailsViewModel>(); // transient pour pouvoir réutiliser une view et pouvoir modifier le contenu d'une page sans modifier la page précédente qui utilise la même view
+        builder.Services.AddTransient<DetailsViewModel>();
         builder.Services.AddTransient<DetailsPage>();
 
         builder.Services.AddTransient<MyModelsService>();
