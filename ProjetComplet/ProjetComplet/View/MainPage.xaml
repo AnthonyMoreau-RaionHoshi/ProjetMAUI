@@ -8,50 +8,38 @@
              x:Name="MyPage">
 
     <ContentPage.MenuBarItems>
-        <MenuBarItem Text="Details page"
+        <MenuBarItem Text="File"
                      BindingContext="{Binding Path=BindingContext,Source={x:Reference MyPage}}">
             <!--<MenuFlyoutSubItem Text=" Choix 1
                 <MenuFlyoutItem Text=" Choix 1.1 "/>
             </MenuFlyoutSubItem>-->
-            <MenuFlyoutItem Text=" Choix 2 "
+            <MenuFlyoutItem Text="Detail View"
                             Command="{Binding GoToDetailsPageCommand}"
+                            CommandParameter="Details page"/>
+            <MenuFlyoutItem Text=" Load Json "
+                            Command="{Binding GetPokemonsFromJsonCommand}"
                             CommandParameter="Details page"/>
         </MenuBarItem>
     </ContentPage.MenuBarItems>
-
-    <Grid ColumnDefinitions="*" RowDefinitions="Auto,*" Padding="20" RowSpacing="20">
-        <Button Grid.Row="0" 
-                HeightRequest="70" 
-                WidthRequest="120" 
-                HorizontalOptions="Start" 
-                Text="Load JSON"
-                Command="{x:Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}},Path=GetPokemonsToJsonCommand}"/>
-        <CollectionView ItemsSource="{Binding Pokemons}" Grid.Row="1">
-            <CollectionView.ItemTemplate>
+    <ScrollView>
+        <FlexLayout BindableLayout.ItemsSource="{Binding Pokemons}"
+                    Wrap="Wrap"
+                    JustifyContent="SpaceAround">
+            <BindableLayout.ItemTemplate>
                 <DataTemplate x:DataType="model:Pokemon">
-                    <Grid Padding="10" ColumnDefinitions="500,*" BackgroundColor="White">
-                        <Frame HeightRequest="125">
-                            <Grid Padding="0" ColumnDefinitions="125,*" BackgroundColor="Grey">
-                                <Image
-                            Aspect="AspectFill"
-                            HeightRequest="100"
-                            Source="{Binding Picture}"
-                            WidthRequest="100"/>
-                                <VerticalStackLayout    VerticalOptions="Center"
-                                                    Grid.Column="1"
-                                                    Padding="10">
-                                    <Label VerticalOptions="Center" Text="{Binding id}"/>
-                                    <Label VerticalOptions="Center" Text="{Binding name_french}"/>
-                                    <Label VerticalOptions="Center" Text="{Binding type_0}"/>
+                    <VerticalStackLayout WidthRequest="125"
+                                         HeightRequest="125">
 
-                                </VerticalStackLayout>
-                            </Grid>
-                        </Frame>
-                    </Grid>
+                        <Image HeightRequest="100"
+                                WidthRequest="100"
+                               Aspect="AspectFill"
+                                Source="{Binding Picture}"
+                                HorizontalOptions="Center"/>
+                        <Label HorizontalOptions="Center" 
+                                Text="{Binding name_english}"/>
+                    </VerticalStackLayout>
                 </DataTemplate>
-
-            </CollectionView.ItemTemplate>
-        </CollectionView>
-    </Grid>
-    
+            </BindableLayout.ItemTemplate>
+        </FlexLayout>
+    </ScrollView>
 </ContentPage>

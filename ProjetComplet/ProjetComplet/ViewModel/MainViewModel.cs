@@ -23,7 +23,7 @@ public partial class MainViewModel : ObservableObject
     }
 
     [RelayCommand]
-    async Task GetPokemonsToJson(string data)
+    async Task GetPokemonsFromJson(string data)
     {
         try
         {

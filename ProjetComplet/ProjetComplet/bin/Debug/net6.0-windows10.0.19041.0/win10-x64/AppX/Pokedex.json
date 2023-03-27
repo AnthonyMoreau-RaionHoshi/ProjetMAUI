@@ -13,6 +13,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "65",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic001.png"
     },
     {
@@ -29,6 +30,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "80",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic002.png"
     },
     {
@@ -45,6 +47,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic003.png"
     },
     {
@@ -61,6 +64,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "50",
         "base_Speed": "65",
+        "Generation": "1",
         "Picture": "pic004.png"
     },
     {
@@ -77,6 +81,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "65",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic005.png"
     },
     {
@@ -93,6 +98,7 @@
         "base_Sp_Attack": "109",
         "base_Sp_Defense": "85",
         "base_Speed": "100",
+        "Generation": "1",
         "Picture": "pic006.png"
     },
     {
@@ -109,6 +115,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "64",
         "base_Speed": "43",
+        "Generation": "1",
         "Picture": "pic007.png"
     },
     {
@@ -125,6 +132,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "80",
         "base_Speed": "58",
+        "Generation": "1",
         "Picture": "pic008.png"
     },
     {
@@ -141,6 +149,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "105",
         "base_Speed": "78",
+        "Generation": "1",
         "Picture": "pic009.png"
     },
     {
@@ -157,6 +166,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "20",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic010.png"
     },
     {
@@ -173,6 +183,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "30",
+        "Generation": "1",
         "Picture": "pic011.png"
     },
     {
@@ -189,6 +200,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "80",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic012.png"
     },
     {
@@ -205,6 +217,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "20",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic013.png"
     },
     {
@@ -221,6 +234,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic014.png"
     },
     {
@@ -237,6 +251,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "80",
         "base_Speed": "75",
+        "Generation": "1",
         "Picture": "pic015.png"
     },
     {
@@ -253,6 +268,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "56",
+        "Generation": "1",
         "Picture": "pic016.png"
     },
     {
@@ -269,6 +285,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "71",
+        "Generation": "1",
         "Picture": "pic017.png"
     },
     {
@@ -285,6 +302,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "70",
         "base_Speed": "101",
+        "Generation": "1",
         "Picture": "pic018.png"
     },
     {
@@ -301,6 +319,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "35",
         "base_Speed": "72",
+        "Generation": "1",
         "Picture": "pic019.png"
     },
     {
@@ -317,6 +336,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "70",
         "base_Speed": "97",
+        "Generation": "1",
         "Picture": "pic020.png"
     },
     {
@@ -333,6 +353,7 @@
         "base_Sp_Attack": "31",
         "base_Sp_Defense": "31",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic021.png"
     },
     {
@@ -349,6 +370,7 @@
         "base_Sp_Attack": "61",
         "base_Sp_Defense": "61",
         "base_Speed": "100",
+        "Generation": "1",
         "Picture": "pic022.png"
     },
     {
@@ -365,6 +387,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "54",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic023.png"
     },
     {
@@ -381,6 +404,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "79",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic024.png"
     },
     {
@@ -397,6 +421,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic025.png"
     },
     {
@@ -413,6 +438,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "80",
         "base_Speed": "110",
+        "Generation": "1",
         "Picture": "pic026.png"
     },
     {
@@ -429,6 +455,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "30",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic027.png"
     },
     {
@@ -445,6 +472,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "65",
+        "Generation": "1",
         "Picture": "pic028.png"
     },
     {
@@ -461,6 +489,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "41",
+        "Generation": "1",
         "Picture": "pic029.png"
     },
     {
@@ -477,6 +506,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "56",
+        "Generation": "1",
         "Picture": "pic030.png"
     },
     {
@@ -493,6 +523,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "85",
         "base_Speed": "76",
+        "Generation": "1",
         "Picture": "pic031.png"
     },
     {
@@ -509,6 +540,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic032.png"
     },
     {
@@ -525,6 +557,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "65",
+        "Generation": "1",
         "Picture": "pic033.png"
     },
     {
@@ -541,6 +574,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "75",
         "base_Speed": "85",
+        "Generation": "1",
         "Picture": "pic034.png"
     },
     {
@@ -557,6 +591,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "65",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic035.png"
     },
     {
@@ -573,6 +608,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "90",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic036.png"
     },
     {
@@ -589,6 +625,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "65",
         "base_Speed": "65",
+        "Generation": "1",
         "Picture": "pic037.png"
     },
     {
@@ -605,6 +642,7 @@
         "base_Sp_Attack": "81",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "1",
         "Picture": "pic038.png"
     },
     {
@@ -621,6 +659,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "25",
         "base_Speed": "20",
+        "Generation": "1",
         "Picture": "pic039.png"
     },
     {
@@ -637,6 +676,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "50",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic040.png"
     },
     {
@@ -653,6 +693,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "40",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic041.png"
     },
     {
@@ -669,6 +710,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "75",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic042.png"
     },
     {
@@ -685,6 +727,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "65",
         "base_Speed": "30",
+        "Generation": "1",
         "Picture": "pic043.png"
     },
     {
@@ -701,6 +744,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "75",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic044.png"
     },
     {
@@ -717,6 +761,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "90",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic045.png"
     },
     {
@@ -733,6 +778,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "25",
+        "Generation": "1",
         "Picture": "pic046.png"
     },
     {
@@ -749,6 +795,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "80",
         "base_Speed": "30",
+        "Generation": "1",
         "Picture": "pic047.png"
     },
     {
@@ -765,6 +812,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "55",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic048.png"
     },
     {
@@ -781,6 +829,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "75",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic049.png"
     },
     {
@@ -797,6 +846,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "45",
         "base_Speed": "95",
+        "Generation": "1",
         "Picture": "pic050.png"
     },
     {
@@ -813,6 +863,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "70",
         "base_Speed": "120",
+        "Generation": "1",
         "Picture": "pic051.png"
     },
     {
@@ -829,6 +880,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic052.png"
     },
     {
@@ -845,6 +897,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "65",
         "base_Speed": "115",
+        "Generation": "1",
         "Picture": "pic053.png"
     },
     {
@@ -861,6 +914,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "50",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic054.png"
     },
     {
@@ -877,6 +931,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "80",
         "base_Speed": "85",
+        "Generation": "1",
         "Picture": "pic055.png"
     },
     {
@@ -893,6 +948,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "45",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic056.png"
     },
     {
@@ -909,6 +965,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "95",
+        "Generation": "1",
         "Picture": "pic057.png"
     },
     {
@@ -925,6 +982,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "50",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic058.png"
     },
     {
@@ -941,6 +999,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "80",
         "base_Speed": "95",
+        "Generation": "1",
         "Picture": "pic059.png"
     },
     {
@@ -957,6 +1016,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic060.png"
     },
     {
@@ -973,6 +1033,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic061.png"
     },
     {
@@ -989,6 +1050,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "90",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic062.png"
     },
     {
@@ -1005,6 +1067,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "55",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic063.png"
     },
     {
@@ -1021,6 +1084,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "70",
         "base_Speed": "105",
+        "Generation": "1",
         "Picture": "pic064.png"
     },
     {
@@ -1037,6 +1101,7 @@
         "base_Sp_Attack": "135",
         "base_Sp_Defense": "95",
         "base_Speed": "120",
+        "Generation": "1",
         "Picture": "pic065.png"
     },
     {
@@ -1053,6 +1118,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic066.png"
     },
     {
@@ -1069,6 +1135,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "60",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic067.png"
     },
     {
@@ -1085,6 +1152,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "85",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic068.png"
     },
     {
@@ -1101,6 +1169,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "30",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic069.png"
     },
     {
@@ -1117,6 +1186,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "45",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic070.png"
     },
     {
@@ -1133,6 +1203,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic071.png"
     },
     {
@@ -1149,6 +1220,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "100",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic072.png"
     },
     {
@@ -1165,6 +1237,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "120",
         "base_Speed": "100",
+        "Generation": "1",
         "Picture": "pic073.png"
     },
     {
@@ -1181,6 +1254,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "20",
+        "Generation": "1",
         "Picture": "pic074.png"
     },
     {
@@ -1197,6 +1271,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic075.png"
     },
     {
@@ -1213,6 +1288,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic076.png"
     },
     {
@@ -1229,6 +1305,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "65",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic077.png"
     },
     {
@@ -1245,6 +1322,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "80",
         "base_Speed": "105",
+        "Generation": "1",
         "Picture": "pic078.png"
     },
     {
@@ -1261,6 +1339,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "15",
+        "Generation": "1",
         "Picture": "pic079.png"
     },
     {
@@ -1277,6 +1356,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "80",
         "base_Speed": "30",
+        "Generation": "1",
         "Picture": "pic080.png"
     },
     {
@@ -1293,6 +1373,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "55",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic081.png"
     },
     {
@@ -1309,6 +1390,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic082.png"
     },
     {
@@ -1325,6 +1407,7 @@
         "base_Sp_Attack": "58",
         "base_Sp_Defense": "62",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic083.png"
     },
     {
@@ -1341,6 +1424,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "75",
+        "Generation": "1",
         "Picture": "pic084.png"
     },
     {
@@ -1357,6 +1441,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "110",
+        "Generation": "1",
         "Picture": "pic085.png"
     },
     {
@@ -1373,6 +1458,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "70",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic086.png"
     },
     {
@@ -1389,6 +1475,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "95",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic087.png"
     },
     {
@@ -1405,6 +1492,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "25",
+        "Generation": "1",
         "Picture": "pic088.png"
     },
     {
@@ -1421,6 +1509,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "100",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic089.png"
     },
     {
@@ -1437,6 +1526,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "25",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic090.png"
     },
     {
@@ -1453,6 +1543,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "45",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic091.png"
     },
     {
@@ -1469,6 +1560,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "35",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic092.png"
     },
     {
@@ -1485,6 +1577,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "55",
         "base_Speed": "95",
+        "Generation": "1",
         "Picture": "pic093.png"
     },
     {
@@ -1501,6 +1594,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "75",
         "base_Speed": "110",
+        "Generation": "1",
         "Picture": "pic094.png"
     },
     {
@@ -1517,6 +1611,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "45",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic095.png"
     },
     {
@@ -1533,6 +1628,7 @@
         "base_Sp_Attack": "43",
         "base_Sp_Defense": "90",
         "base_Speed": "42",
+        "Generation": "1",
         "Picture": "pic096.png"
     },
     {
@@ -1549,6 +1645,7 @@
         "base_Sp_Attack": "73",
         "base_Sp_Defense": "115",
         "base_Speed": "67",
+        "Generation": "1",
         "Picture": "pic097.png"
     },
     {
@@ -1565,6 +1662,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic098.png"
     },
     {
@@ -1581,6 +1679,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "75",
+        "Generation": "1",
         "Picture": "pic099.png"
     },
     {
@@ -1597,6 +1696,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "100",
+        "Generation": "1",
         "Picture": "pic100.png"
     },
     {
@@ -1613,6 +1713,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "80",
         "base_Speed": "150",
+        "Generation": "1",
         "Picture": "pic101.png"
     },
     {
@@ -1629,6 +1730,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "45",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic102.png"
     },
     {
@@ -1645,6 +1747,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "75",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic103.png"
     },
     {
@@ -1661,6 +1764,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic104.png"
     },
     {
@@ -1677,6 +1781,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "80",
         "base_Speed": "45",
+        "Generation": "1",
         "Picture": "pic105.png"
     },
     {
@@ -1693,6 +1798,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "110",
         "base_Speed": "87",
+        "Generation": "1",
         "Picture": "pic106.png"
     },
     {
@@ -1709,6 +1815,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "110",
         "base_Speed": "76",
+        "Generation": "1",
         "Picture": "pic107.png"
     },
     {
@@ -1725,6 +1832,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "75",
         "base_Speed": "30",
+        "Generation": "1",
         "Picture": "pic108.png"
     },
     {
@@ -1741,6 +1849,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "45",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic109.png"
     },
     {
@@ -1757,6 +1866,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "70",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic110.png"
     },
     {
@@ -1773,6 +1883,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "25",
+        "Generation": "1",
         "Picture": "pic111.png"
     },
     {
@@ -1789,6 +1900,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic112.png"
     },
     {
@@ -1805,6 +1917,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "105",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic113.png"
     },
     {
@@ -1821,6 +1934,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "40",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic114.png"
     },
     {
@@ -1837,6 +1951,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "80",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic115.png"
     },
     {
@@ -1853,6 +1968,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "25",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic116.png"
     },
     {
@@ -1869,6 +1985,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "45",
         "base_Speed": "85",
+        "Generation": "1",
         "Picture": "pic117.png"
     },
     {
@@ -1885,6 +2002,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "50",
         "base_Speed": "63",
+        "Generation": "1",
         "Picture": "pic118.png"
     },
     {
@@ -1901,6 +2019,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "80",
         "base_Speed": "68",
+        "Generation": "1",
         "Picture": "pic119.png"
     },
     {
@@ -1917,6 +2036,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "55",
         "base_Speed": "85",
+        "Generation": "1",
         "Picture": "pic120.png"
     },
     {
@@ -1933,6 +2053,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "85",
         "base_Speed": "115",
+        "Generation": "1",
         "Picture": "pic121.png"
     },
     {
@@ -1949,6 +2070,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "120",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic122.png"
     },
     {
@@ -1965,6 +2087,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "80",
         "base_Speed": "105",
+        "Generation": "1",
         "Picture": "pic123.png"
     },
     {
@@ -1981,6 +2104,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "95",
         "base_Speed": "95",
+        "Generation": "1",
         "Picture": "pic124.png"
     },
     {
@@ -1997,6 +2121,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "85",
         "base_Speed": "105",
+        "Generation": "1",
         "Picture": "pic125.png"
     },
     {
@@ -2013,6 +2138,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "85",
         "base_Speed": "93",
+        "Generation": "1",
         "Picture": "pic126.png"
     },
     {
@@ -2029,6 +2155,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "70",
         "base_Speed": "85",
+        "Generation": "1",
         "Picture": "pic127.png"
     },
     {
@@ -2045,6 +2172,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "70",
         "base_Speed": "110",
+        "Generation": "1",
         "Picture": "pic128.png"
     },
     {
@@ -2061,6 +2189,7 @@
         "base_Sp_Attack": "15",
         "base_Sp_Defense": "20",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic129.png"
     },
     {
@@ -2077,6 +2206,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "100",
         "base_Speed": "81",
+        "Generation": "1",
         "Picture": "pic130.png"
     },
     {
@@ -2093,6 +2223,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "95",
         "base_Speed": "60",
+        "Generation": "1",
         "Picture": "pic131.png"
     },
     {
@@ -2109,6 +2240,7 @@
         "base_Sp_Attack": "48",
         "base_Sp_Defense": "48",
         "base_Speed": "48",
+        "Generation": "1",
         "Picture": "pic132.png"
     },
     {
@@ -2125,6 +2257,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "65",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic133.png"
     },
     {
@@ -2141,6 +2274,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "95",
         "base_Speed": "65",
+        "Generation": "1",
         "Picture": "pic134.png"
     },
     {
@@ -2157,6 +2291,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "95",
         "base_Speed": "130",
+        "Generation": "1",
         "Picture": "pic135.png"
     },
     {
@@ -2173,6 +2308,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "110",
         "base_Speed": "65",
+        "Generation": "1",
         "Picture": "pic136.png"
     },
     {
@@ -2189,6 +2325,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "75",
         "base_Speed": "40",
+        "Generation": "1",
         "Picture": "pic137.png"
     },
     {
@@ -2205,6 +2342,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "55",
         "base_Speed": "35",
+        "Generation": "1",
         "Picture": "pic138.png"
     },
     {
@@ -2221,6 +2359,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "70",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic139.png"
     },
     {
@@ -2237,6 +2376,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "45",
         "base_Speed": "55",
+        "Generation": "1",
         "Picture": "pic140.png"
     },
     {
@@ -2253,6 +2393,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "70",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic141.png"
     },
     {
@@ -2269,6 +2410,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "75",
         "base_Speed": "130",
+        "Generation": "1",
         "Picture": "pic142.png"
     },
     {
@@ -2285,6 +2427,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "110",
         "base_Speed": "30",
+        "Generation": "1",
         "Picture": "pic143.png"
     },
     {
@@ -2301,6 +2444,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "125",
         "base_Speed": "85",
+        "Generation": "1",
         "Picture": "pic144.png"
     },
     {
@@ -2317,6 +2461,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "90",
         "base_Speed": "100",
+        "Generation": "1",
         "Picture": "pic145.png"
     },
     {
@@ -2333,6 +2478,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "85",
         "base_Speed": "90",
+        "Generation": "1",
         "Picture": "pic146.png"
     },
     {
@@ -2349,6 +2495,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "50",
+        "Generation": "1",
         "Picture": "pic147.png"
     },
     {
@@ -2365,6 +2512,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "1",
         "Picture": "pic148.png"
     },
     {
@@ -2381,6 +2529,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "80",
+        "Generation": "1",
         "Picture": "pic149.png"
     },
     {
@@ -2397,6 +2546,7 @@
         "base_Sp_Attack": "154",
         "base_Sp_Defense": "90",
         "base_Speed": "130",
+        "Generation": "1",
         "Picture": "pic150.png"
     },
     {
@@ -2413,6 +2563,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "2",
         "Picture": "pic151.png"
     },
     {
@@ -2429,6 +2580,7 @@
         "base_Sp_Attack": "49",
         "base_Sp_Defense": "65",
         "base_Speed": "45",
+        "Generation": "2",
         "Picture": "pic152.png"
     },
     {
@@ -2445,6 +2597,7 @@
         "base_Sp_Attack": "63",
         "base_Sp_Defense": "80",
         "base_Speed": "60",
+        "Generation": "2",
         "Picture": "pic153.png"
     },
     {
@@ -2461,6 +2614,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "100",
         "base_Speed": "80",
+        "Generation": "2",
         "Picture": "pic154.png"
     },
     {
@@ -2477,6 +2631,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "50",
         "base_Speed": "65",
+        "Generation": "2",
         "Picture": "pic155.png"
     },
     {
@@ -2493,6 +2648,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "65",
         "base_Speed": "80",
+        "Generation": "2",
         "Picture": "pic156.png"
     },
     {
@@ -2509,6 +2665,7 @@
         "base_Sp_Attack": "109",
         "base_Sp_Defense": "85",
         "base_Speed": "100",
+        "Generation": "2",
         "Picture": "pic157.png"
     },
     {
@@ -2525,6 +2682,7 @@
         "base_Sp_Attack": "44",
         "base_Sp_Defense": "48",
         "base_Speed": "43",
+        "Generation": "2",
         "Picture": "pic158.png"
     },
     {
@@ -2541,6 +2699,7 @@
         "base_Sp_Attack": "59",
         "base_Sp_Defense": "63",
         "base_Speed": "58",
+        "Generation": "2",
         "Picture": "pic159.png"
     },
     {
@@ -2557,6 +2716,7 @@
         "base_Sp_Attack": "79",
         "base_Sp_Defense": "83",
         "base_Speed": "78",
+        "Generation": "2",
         "Picture": "pic160.png"
     },
     {
@@ -2573,6 +2733,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "45",
         "base_Speed": "20",
+        "Generation": "2",
         "Picture": "pic161.png"
     },
     {
@@ -2589,6 +2750,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "90",
+        "Generation": "2",
         "Picture": "pic162.png"
     },
     {
@@ -2605,6 +2767,7 @@
         "base_Sp_Attack": "36",
         "base_Sp_Defense": "56",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic163.png"
     },
     {
@@ -2621,6 +2784,7 @@
         "base_Sp_Attack": "86",
         "base_Sp_Defense": "96",
         "base_Speed": "70",
+        "Generation": "2",
         "Picture": "pic164.png"
     },
     {
@@ -2637,6 +2801,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "80",
         "base_Speed": "55",
+        "Generation": "2",
         "Picture": "pic165.png"
     },
     {
@@ -2653,6 +2818,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "110",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic166.png"
     },
     {
@@ -2669,6 +2835,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic167.png"
     },
     {
@@ -2685,6 +2852,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "40",
+        "Generation": "2",
         "Picture": "pic168.png"
     },
     {
@@ -2701,6 +2869,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "80",
         "base_Speed": "130",
+        "Generation": "2",
         "Picture": "pic169.png"
     },
     {
@@ -2717,6 +2886,7 @@
         "base_Sp_Attack": "56",
         "base_Sp_Defense": "56",
         "base_Speed": "67",
+        "Generation": "2",
         "Picture": "pic170.png"
     },
     {
@@ -2733,6 +2903,7 @@
         "base_Sp_Attack": "76",
         "base_Sp_Defense": "76",
         "base_Speed": "67",
+        "Generation": "2",
         "Picture": "pic171.png"
     },
     {
@@ -2749,6 +2920,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "60",
+        "Generation": "2",
         "Picture": "pic172.png"
     },
     {
@@ -2765,6 +2937,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "15",
+        "Generation": "2",
         "Picture": "pic173.png"
     },
     {
@@ -2781,6 +2954,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "20",
         "base_Speed": "15",
+        "Generation": "2",
         "Picture": "pic174.png"
     },
     {
@@ -2797,6 +2971,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "65",
         "base_Speed": "20",
+        "Generation": "2",
         "Picture": "pic175.png"
     },
     {
@@ -2813,6 +2988,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "105",
         "base_Speed": "40",
+        "Generation": "2",
         "Picture": "pic176.png"
     },
     {
@@ -2829,6 +3005,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "45",
         "base_Speed": "70",
+        "Generation": "2",
         "Picture": "pic177.png"
     },
     {
@@ -2845,6 +3022,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "70",
         "base_Speed": "95",
+        "Generation": "2",
         "Picture": "pic178.png"
     },
     {
@@ -2861,6 +3039,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "45",
         "base_Speed": "35",
+        "Generation": "2",
         "Picture": "pic179.png"
     },
     {
@@ -2877,6 +3056,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "60",
         "base_Speed": "45",
+        "Generation": "2",
         "Picture": "pic180.png"
     },
     {
@@ -2893,6 +3073,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "90",
         "base_Speed": "55",
+        "Generation": "2",
         "Picture": "pic181.png"
     },
     {
@@ -2909,6 +3090,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "100",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic182.png"
     },
     {
@@ -2925,6 +3107,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "50",
         "base_Speed": "40",
+        "Generation": "2",
         "Picture": "pic183.png"
     },
     {
@@ -2941,6 +3124,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "80",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic184.png"
     },
     {
@@ -2957,6 +3141,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "65",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic185.png"
     },
     {
@@ -2973,6 +3158,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "100",
         "base_Speed": "70",
+        "Generation": "2",
         "Picture": "pic186.png"
     },
     {
@@ -2989,6 +3175,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "55",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic187.png"
     },
     {
@@ -3005,6 +3192,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "65",
         "base_Speed": "80",
+        "Generation": "2",
         "Picture": "pic188.png"
     },
     {
@@ -3021,6 +3209,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "95",
         "base_Speed": "110",
+        "Generation": "2",
         "Picture": "pic189.png"
     },
     {
@@ -3037,6 +3226,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "55",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic190.png"
     },
     {
@@ -3053,6 +3243,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic191.png"
     },
     {
@@ -3069,6 +3260,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "85",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic192.png"
     },
     {
@@ -3085,6 +3277,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "45",
         "base_Speed": "95",
+        "Generation": "2",
         "Picture": "pic193.png"
     },
     {
@@ -3101,6 +3294,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "15",
+        "Generation": "2",
         "Picture": "pic194.png"
     },
     {
@@ -3117,6 +3311,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "65",
         "base_Speed": "35",
+        "Generation": "2",
         "Picture": "pic195.png"
     },
     {
@@ -3133,6 +3328,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "95",
         "base_Speed": "110",
+        "Generation": "2",
         "Picture": "pic196.png"
     },
     {
@@ -3149,6 +3345,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "130",
         "base_Speed": "65",
+        "Generation": "2",
         "Picture": "pic197.png"
     },
     {
@@ -3165,6 +3362,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "42",
         "base_Speed": "91",
+        "Generation": "2",
         "Picture": "pic198.png"
     },
     {
@@ -3181,6 +3379,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "110",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic199.png"
     },
     {
@@ -3197,6 +3396,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "85",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic200.png"
     },
     {
@@ -3213,6 +3413,7 @@
         "base_Sp_Attack": "72",
         "base_Sp_Defense": "48",
         "base_Speed": "48",
+        "Generation": "2",
         "Picture": "pic201.png"
     },
     {
@@ -3229,6 +3430,7 @@
         "base_Sp_Attack": "33",
         "base_Sp_Defense": "58",
         "base_Speed": "33",
+        "Generation": "2",
         "Picture": "pic202.png"
     },
     {
@@ -3245,6 +3447,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "65",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic203.png"
     },
     {
@@ -3261,6 +3464,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "15",
+        "Generation": "2",
         "Picture": "pic204.png"
     },
     {
@@ -3277,6 +3481,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "40",
+        "Generation": "2",
         "Picture": "pic205.png"
     },
     {
@@ -3293,6 +3498,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "65",
         "base_Speed": "45",
+        "Generation": "2",
         "Picture": "pic206.png"
     },
     {
@@ -3309,6 +3515,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "65",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic207.png"
     },
     {
@@ -3325,6 +3532,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic208.png"
     },
     {
@@ -3341,6 +3549,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic209.png"
     },
     {
@@ -3357,6 +3566,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "45",
+        "Generation": "2",
         "Picture": "pic210.png"
     },
     {
@@ -3373,6 +3583,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic211.png"
     },
     {
@@ -3389,6 +3600,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "80",
         "base_Speed": "65",
+        "Generation": "2",
         "Picture": "pic212.png"
     },
     {
@@ -3405,6 +3617,7 @@
         "base_Sp_Attack": "10",
         "base_Sp_Defense": "230",
         "base_Speed": "5",
+        "Generation": "2",
         "Picture": "pic213.png"
     },
     {
@@ -3421,6 +3634,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "95",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic214.png"
     },
     {
@@ -3437,6 +3651,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "75",
         "base_Speed": "115",
+        "Generation": "2",
         "Picture": "pic215.png"
     },
     {
@@ -3453,6 +3668,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "40",
+        "Generation": "2",
         "Picture": "pic216.png"
     },
     {
@@ -3469,6 +3685,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "75",
         "base_Speed": "55",
+        "Generation": "2",
         "Picture": "pic217.png"
     },
     {
@@ -3485,6 +3702,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "40",
         "base_Speed": "20",
+        "Generation": "2",
         "Picture": "pic218.png"
     },
     {
@@ -3501,6 +3719,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "80",
         "base_Speed": "30",
+        "Generation": "2",
         "Picture": "pic219.png"
     },
     {
@@ -3517,6 +3736,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic220.png"
     },
     {
@@ -3533,6 +3753,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic221.png"
     },
     {
@@ -3549,6 +3770,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "95",
         "base_Speed": "35",
+        "Generation": "2",
         "Picture": "pic222.png"
     },
     {
@@ -3565,6 +3787,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "35",
         "base_Speed": "65",
+        "Generation": "2",
         "Picture": "pic223.png"
     },
     {
@@ -3581,6 +3804,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "75",
         "base_Speed": "45",
+        "Generation": "2",
         "Picture": "pic224.png"
     },
     {
@@ -3597,6 +3821,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "45",
         "base_Speed": "75",
+        "Generation": "2",
         "Picture": "pic225.png"
     },
     {
@@ -3613,6 +3838,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "140",
         "base_Speed": "70",
+        "Generation": "2",
         "Picture": "pic226.png"
     },
     {
@@ -3629,6 +3855,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "2",
         "Picture": "pic227.png"
     },
     {
@@ -3645,6 +3872,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "50",
         "base_Speed": "65",
+        "Generation": "2",
         "Picture": "pic228.png"
     },
     {
@@ -3661,6 +3889,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "80",
         "base_Speed": "95",
+        "Generation": "2",
         "Picture": "pic229.png"
     },
     {
@@ -3677,6 +3906,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "95",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic230.png"
     },
     {
@@ -3693,6 +3923,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "40",
+        "Generation": "2",
         "Picture": "pic231.png"
     },
     {
@@ -3709,6 +3940,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "50",
+        "Generation": "2",
         "Picture": "pic232.png"
     },
     {
@@ -3725,6 +3957,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "95",
         "base_Speed": "60",
+        "Generation": "2",
         "Picture": "pic233.png"
     },
     {
@@ -3741,6 +3974,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "65",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic234.png"
     },
     {
@@ -3757,6 +3991,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "45",
         "base_Speed": "75",
+        "Generation": "2",
         "Picture": "pic235.png"
     },
     {
@@ -3773,6 +4008,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "35",
+        "Generation": "2",
         "Picture": "pic236.png"
     },
     {
@@ -3789,6 +4025,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "110",
         "base_Speed": "70",
+        "Generation": "2",
         "Picture": "pic237.png"
     },
     {
@@ -3805,6 +4042,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "65",
         "base_Speed": "65",
+        "Generation": "2",
         "Picture": "pic238.png"
     },
     {
@@ -3821,6 +4059,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "55",
         "base_Speed": "95",
+        "Generation": "2",
         "Picture": "pic239.png"
     },
     {
@@ -3837,6 +4076,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "55",
         "base_Speed": "83",
+        "Generation": "2",
         "Picture": "pic240.png"
     },
     {
@@ -3853,6 +4093,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "70",
         "base_Speed": "100",
+        "Generation": "2",
         "Picture": "pic241.png"
     },
     {
@@ -3869,6 +4110,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "135",
         "base_Speed": "55",
+        "Generation": "2",
         "Picture": "pic242.png"
     },
     {
@@ -3885,6 +4127,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "100",
         "base_Speed": "115",
+        "Generation": "2",
         "Picture": "pic243.png"
     },
     {
@@ -3901,6 +4144,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "75",
         "base_Speed": "100",
+        "Generation": "2",
         "Picture": "pic244.png"
     },
     {
@@ -3917,6 +4161,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "115",
         "base_Speed": "85",
+        "Generation": "2",
         "Picture": "pic245.png"
     },
     {
@@ -3933,6 +4178,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "50",
         "base_Speed": "41",
+        "Generation": "2",
         "Picture": "pic246.png"
     },
     {
@@ -3949,6 +4195,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "70",
         "base_Speed": "51",
+        "Generation": "2",
         "Picture": "pic247.png"
     },
     {
@@ -3965,6 +4212,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "100",
         "base_Speed": "61",
+        "Generation": "2",
         "Picture": "pic248.png"
     },
     {
@@ -3981,6 +4229,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "154",
         "base_Speed": "110",
+        "Generation": "2",
         "Picture": "pic249.png"
     },
     {
@@ -3997,6 +4246,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "154",
         "base_Speed": "90",
+        "Generation": "2",
         "Picture": "pic250.png"
     },
     {
@@ -4013,6 +4263,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "3",
         "Picture": "pic251.png"
     },
     {
@@ -4029,6 +4280,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "55",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic252.png"
     },
     {
@@ -4045,6 +4297,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "65",
         "base_Speed": "95",
+        "Generation": "3",
         "Picture": "pic253.png"
     },
     {
@@ -4061,6 +4314,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "85",
         "base_Speed": "120",
+        "Generation": "3",
         "Picture": "pic254.png"
     },
     {
@@ -4077,6 +4331,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "50",
         "base_Speed": "45",
+        "Generation": "3",
         "Picture": "pic255.png"
     },
     {
@@ -4093,6 +4348,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "60",
         "base_Speed": "55",
+        "Generation": "3",
         "Picture": "pic256.png"
     },
     {
@@ -4109,6 +4365,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "70",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic257.png"
     },
     {
@@ -4125,6 +4382,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic258.png"
     },
     {
@@ -4141,6 +4399,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic259.png"
     },
     {
@@ -4157,6 +4416,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "90",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic260.png"
     },
     {
@@ -4173,6 +4433,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "35",
+        "Generation": "3",
         "Picture": "pic261.png"
     },
     {
@@ -4189,6 +4450,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic262.png"
     },
     {
@@ -4205,6 +4467,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "41",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic263.png"
     },
     {
@@ -4221,6 +4484,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "61",
         "base_Speed": "100",
+        "Generation": "3",
         "Picture": "pic264.png"
     },
     {
@@ -4237,6 +4501,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "30",
         "base_Speed": "20",
+        "Generation": "3",
         "Picture": "pic265.png"
     },
     {
@@ -4253,6 +4518,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "15",
+        "Generation": "3",
         "Picture": "pic266.png"
     },
     {
@@ -4269,6 +4535,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "50",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic267.png"
     },
     {
@@ -4285,6 +4552,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "15",
+        "Generation": "3",
         "Picture": "pic268.png"
     },
     {
@@ -4301,6 +4569,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "90",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic269.png"
     },
     {
@@ -4317,6 +4586,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "30",
+        "Generation": "3",
         "Picture": "pic270.png"
     },
     {
@@ -4333,6 +4603,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic271.png"
     },
     {
@@ -4349,6 +4620,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "100",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic272.png"
     },
     {
@@ -4365,6 +4637,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "30",
+        "Generation": "3",
         "Picture": "pic273.png"
     },
     {
@@ -4381,6 +4654,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "40",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic274.png"
     },
     {
@@ -4397,6 +4671,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "60",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic275.png"
     },
     {
@@ -4413,6 +4688,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "85",
+        "Generation": "3",
         "Picture": "pic276.png"
     },
     {
@@ -4429,6 +4705,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "50",
         "base_Speed": "125",
+        "Generation": "3",
         "Picture": "pic277.png"
     },
     {
@@ -4445,6 +4722,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "30",
         "base_Speed": "85",
+        "Generation": "3",
         "Picture": "pic278.png"
     },
     {
@@ -4461,6 +4739,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "70",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic279.png"
     },
     {
@@ -4477,6 +4756,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "35",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic280.png"
     },
     {
@@ -4493,6 +4773,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "55",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic281.png"
     },
     {
@@ -4509,6 +4790,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "115",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic282.png"
     },
     {
@@ -4525,6 +4807,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "52",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic283.png"
     },
     {
@@ -4541,6 +4824,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "82",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic284.png"
     },
     {
@@ -4557,6 +4841,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "60",
         "base_Speed": "35",
+        "Generation": "3",
         "Picture": "pic285.png"
     },
     {
@@ -4573,6 +4858,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic286.png"
     },
     {
@@ -4589,6 +4875,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "30",
+        "Generation": "3",
         "Picture": "pic287.png"
     },
     {
@@ -4605,6 +4892,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "90",
+        "Generation": "3",
         "Picture": "pic288.png"
     },
     {
@@ -4621,6 +4909,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "65",
         "base_Speed": "100",
+        "Generation": "3",
         "Picture": "pic289.png"
     },
     {
@@ -4637,6 +4926,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic290.png"
     },
     {
@@ -4653,6 +4943,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "160",
+        "Generation": "3",
         "Picture": "pic291.png"
     },
     {
@@ -4669,6 +4960,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic292.png"
     },
     {
@@ -4685,6 +4977,7 @@
         "base_Sp_Attack": "51",
         "base_Sp_Defense": "23",
         "base_Speed": "28",
+        "Generation": "3",
         "Picture": "pic293.png"
     },
     {
@@ -4701,6 +4994,7 @@
         "base_Sp_Attack": "71",
         "base_Sp_Defense": "43",
         "base_Speed": "48",
+        "Generation": "3",
         "Picture": "pic294.png"
     },
     {
@@ -4717,6 +5011,7 @@
         "base_Sp_Attack": "91",
         "base_Sp_Defense": "73",
         "base_Speed": "68",
+        "Generation": "3",
         "Picture": "pic295.png"
     },
     {
@@ -4733,6 +5028,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "30",
         "base_Speed": "25",
+        "Generation": "3",
         "Picture": "pic296.png"
     },
     {
@@ -4749,6 +5045,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "60",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic297.png"
     },
     {
@@ -4765,6 +5062,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "40",
         "base_Speed": "20",
+        "Generation": "3",
         "Picture": "pic298.png"
     },
     {
@@ -4781,6 +5079,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "90",
         "base_Speed": "30",
+        "Generation": "3",
         "Picture": "pic299.png"
     },
     {
@@ -4797,6 +5096,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic300.png"
     },
     {
@@ -4813,6 +5113,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "90",
+        "Generation": "3",
         "Picture": "pic301.png"
     },
     {
@@ -4829,6 +5130,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "65",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic302.png"
     },
     {
@@ -4845,6 +5147,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic303.png"
     },
     {
@@ -4861,6 +5164,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "30",
+        "Generation": "3",
         "Picture": "pic304.png"
     },
     {
@@ -4877,6 +5181,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic305.png"
     },
     {
@@ -4893,6 +5198,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic306.png"
     },
     {
@@ -4909,6 +5215,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "55",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic307.png"
     },
     {
@@ -4925,6 +5232,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "75",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic308.png"
     },
     {
@@ -4941,6 +5249,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "40",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic309.png"
     },
     {
@@ -4957,6 +5266,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "60",
         "base_Speed": "105",
+        "Generation": "3",
         "Picture": "pic310.png"
     },
     {
@@ -4973,6 +5283,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "75",
         "base_Speed": "95",
+        "Generation": "3",
         "Picture": "pic311.png"
     },
     {
@@ -4989,6 +5300,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "85",
         "base_Speed": "95",
+        "Generation": "3",
         "Picture": "pic312.png"
     },
     {
@@ -5005,6 +5317,7 @@
         "base_Sp_Attack": "47",
         "base_Sp_Defense": "85",
         "base_Speed": "85",
+        "Generation": "3",
         "Picture": "pic313.png"
     },
     {
@@ -5021,6 +5334,7 @@
         "base_Sp_Attack": "73",
         "base_Sp_Defense": "85",
         "base_Speed": "85",
+        "Generation": "3",
         "Picture": "pic314.png"
     },
     {
@@ -5037,6 +5351,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "80",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic315.png"
     },
     {
@@ -5053,6 +5368,7 @@
         "base_Sp_Attack": "43",
         "base_Sp_Defense": "53",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic316.png"
     },
     {
@@ -5069,6 +5385,7 @@
         "base_Sp_Attack": "73",
         "base_Sp_Defense": "83",
         "base_Speed": "55",
+        "Generation": "3",
         "Picture": "pic317.png"
     },
     {
@@ -5085,6 +5402,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "20",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic318.png"
     },
     {
@@ -5101,6 +5419,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "40",
         "base_Speed": "95",
+        "Generation": "3",
         "Picture": "pic319.png"
     },
     {
@@ -5117,6 +5436,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "35",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic320.png"
     },
     {
@@ -5133,6 +5453,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "45",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic321.png"
     },
     {
@@ -5149,6 +5470,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "45",
         "base_Speed": "35",
+        "Generation": "3",
         "Picture": "pic322.png"
     },
     {
@@ -5165,6 +5487,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "75",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic323.png"
     },
     {
@@ -5181,6 +5504,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "70",
         "base_Speed": "20",
+        "Generation": "3",
         "Picture": "pic324.png"
     },
     {
@@ -5197,6 +5521,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "80",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic325.png"
     },
     {
@@ -5213,6 +5538,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "110",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic326.png"
     },
     {
@@ -5229,6 +5555,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic327.png"
     },
     {
@@ -5245,6 +5572,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "10",
+        "Generation": "3",
         "Picture": "pic328.png"
     },
     {
@@ -5261,6 +5589,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic329.png"
     },
     {
@@ -5277,6 +5606,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "80",
         "base_Speed": "100",
+        "Generation": "3",
         "Picture": "pic330.png"
     },
     {
@@ -5293,6 +5623,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "40",
         "base_Speed": "35",
+        "Generation": "3",
         "Picture": "pic331.png"
     },
     {
@@ -5309,6 +5640,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "60",
         "base_Speed": "55",
+        "Generation": "3",
         "Picture": "pic332.png"
     },
     {
@@ -5325,6 +5657,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "75",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic333.png"
     },
     {
@@ -5341,6 +5674,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "105",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic334.png"
     },
     {
@@ -5357,6 +5691,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "90",
+        "Generation": "3",
         "Picture": "pic335.png"
     },
     {
@@ -5373,6 +5708,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "60",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic336.png"
     },
     {
@@ -5389,6 +5725,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "85",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic337.png"
     },
     {
@@ -5405,6 +5742,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic338.png"
     },
     {
@@ -5421,6 +5759,7 @@
         "base_Sp_Attack": "46",
         "base_Sp_Defense": "41",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic339.png"
     },
     {
@@ -5437,6 +5776,7 @@
         "base_Sp_Attack": "76",
         "base_Sp_Defense": "71",
         "base_Speed": "60",
+        "Generation": "3",
         "Picture": "pic340.png"
     },
     {
@@ -5453,6 +5793,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "35",
         "base_Speed": "35",
+        "Generation": "3",
         "Picture": "pic341.png"
     },
     {
@@ -5469,6 +5810,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "55",
         "base_Speed": "55",
+        "Generation": "3",
         "Picture": "pic342.png"
     },
     {
@@ -5485,6 +5827,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "70",
         "base_Speed": "55",
+        "Generation": "3",
         "Picture": "pic343.png"
     },
     {
@@ -5501,6 +5844,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "120",
         "base_Speed": "75",
+        "Generation": "3",
         "Picture": "pic344.png"
     },
     {
@@ -5517,6 +5861,7 @@
         "base_Sp_Attack": "61",
         "base_Sp_Defense": "87",
         "base_Speed": "23",
+        "Generation": "3",
         "Picture": "pic345.png"
     },
     {
@@ -5533,6 +5878,7 @@
         "base_Sp_Attack": "81",
         "base_Sp_Defense": "107",
         "base_Speed": "43",
+        "Generation": "3",
         "Picture": "pic346.png"
     },
     {
@@ -5549,6 +5895,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "75",
+        "Generation": "3",
         "Picture": "pic347.png"
     },
     {
@@ -5565,6 +5912,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "80",
         "base_Speed": "45",
+        "Generation": "3",
         "Picture": "pic348.png"
     },
     {
@@ -5581,6 +5929,7 @@
         "base_Sp_Attack": "10",
         "base_Sp_Defense": "55",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic349.png"
     },
     {
@@ -5597,6 +5946,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "125",
         "base_Speed": "81",
+        "Generation": "3",
         "Picture": "pic350.png"
     },
     {
@@ -5613,6 +5963,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic351.png"
     },
     {
@@ -5629,6 +5980,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "120",
         "base_Speed": "40",
+        "Generation": "3",
         "Picture": "pic352.png"
     },
     {
@@ -5645,6 +5997,7 @@
         "base_Sp_Attack": "63",
         "base_Sp_Defense": "33",
         "base_Speed": "45",
+        "Generation": "3",
         "Picture": "pic353.png"
     },
     {
@@ -5661,6 +6014,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "63",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic354.png"
     },
     {
@@ -5677,6 +6031,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "90",
         "base_Speed": "25",
+        "Generation": "3",
         "Picture": "pic355.png"
     },
     {
@@ -5693,6 +6048,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "130",
         "base_Speed": "25",
+        "Generation": "3",
         "Picture": "pic356.png"
     },
     {
@@ -5709,6 +6065,7 @@
         "base_Sp_Attack": "72",
         "base_Sp_Defense": "87",
         "base_Speed": "51",
+        "Generation": "3",
         "Picture": "pic357.png"
     },
     {
@@ -5725,6 +6082,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "90",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic358.png"
     },
     {
@@ -5741,6 +6099,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "60",
         "base_Speed": "75",
+        "Generation": "3",
         "Picture": "pic359.png"
     },
     {
@@ -5757,6 +6116,7 @@
         "base_Sp_Attack": "23",
         "base_Sp_Defense": "48",
         "base_Speed": "23",
+        "Generation": "3",
         "Picture": "pic360.png"
     },
     {
@@ -5773,6 +6133,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic361.png"
     },
     {
@@ -5789,6 +6150,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "80",
         "base_Speed": "80",
+        "Generation": "3",
         "Picture": "pic362.png"
     },
     {
@@ -5805,6 +6167,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "50",
         "base_Speed": "25",
+        "Generation": "3",
         "Picture": "pic363.png"
     },
     {
@@ -5821,6 +6184,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "70",
         "base_Speed": "45",
+        "Generation": "3",
         "Picture": "pic364.png"
     },
     {
@@ -5837,6 +6201,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "90",
         "base_Speed": "65",
+        "Generation": "3",
         "Picture": "pic365.png"
     },
     {
@@ -5853,6 +6218,7 @@
         "base_Sp_Attack": "74",
         "base_Sp_Defense": "55",
         "base_Speed": "32",
+        "Generation": "3",
         "Picture": "pic366.png"
     },
     {
@@ -5869,6 +6235,7 @@
         "base_Sp_Attack": "94",
         "base_Sp_Defense": "75",
         "base_Speed": "52",
+        "Generation": "3",
         "Picture": "pic367.png"
     },
     {
@@ -5885,6 +6252,7 @@
         "base_Sp_Attack": "114",
         "base_Sp_Defense": "75",
         "base_Speed": "52",
+        "Generation": "3",
         "Picture": "pic368.png"
     },
     {
@@ -5901,6 +6269,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "65",
         "base_Speed": "55",
+        "Generation": "3",
         "Picture": "pic369.png"
     },
     {
@@ -5917,6 +6286,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "65",
         "base_Speed": "97",
+        "Generation": "3",
         "Picture": "pic370.png"
     },
     {
@@ -5933,6 +6303,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "30",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic371.png"
     },
     {
@@ -5949,6 +6320,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "50",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic372.png"
     },
     {
@@ -5965,6 +6337,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "80",
         "base_Speed": "100",
+        "Generation": "3",
         "Picture": "pic373.png"
     },
     {
@@ -5981,6 +6354,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "60",
         "base_Speed": "30",
+        "Generation": "3",
         "Picture": "pic374.png"
     },
     {
@@ -5997,6 +6371,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "80",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic375.png"
     },
     {
@@ -6013,6 +6388,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "90",
         "base_Speed": "70",
+        "Generation": "3",
         "Picture": "pic376.png"
     },
     {
@@ -6029,6 +6405,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "100",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic377.png"
     },
     {
@@ -6045,6 +6422,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "200",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic378.png"
     },
     {
@@ -6061,6 +6439,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "150",
         "base_Speed": "50",
+        "Generation": "3",
         "Picture": "pic379.png"
     },
     {
@@ -6077,6 +6456,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "130",
         "base_Speed": "110",
+        "Generation": "3",
         "Picture": "pic380.png"
     },
     {
@@ -6093,6 +6473,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "110",
         "base_Speed": "110",
+        "Generation": "3",
         "Picture": "pic381.png"
     },
     {
@@ -6109,6 +6490,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "140",
         "base_Speed": "90",
+        "Generation": "3",
         "Picture": "pic382.png"
     },
     {
@@ -6125,6 +6507,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "90",
         "base_Speed": "90",
+        "Generation": "3",
         "Picture": "pic383.png"
     },
     {
@@ -6141,6 +6524,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "90",
         "base_Speed": "95",
+        "Generation": "3",
         "Picture": "pic384.png"
     },
     {
@@ -6157,6 +6541,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "3",
         "Picture": "pic385.png"
     },
     {
@@ -6173,6 +6558,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "50",
         "base_Speed": "150",
+        "Generation": "3",
         "Picture": "pic386.png"
     },
     {
@@ -6189,6 +6575,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "31",
+        "Generation": "4",
         "Picture": "pic387.png"
     },
     {
@@ -6205,6 +6592,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "36",
+        "Generation": "4",
         "Picture": "pic388.png"
     },
     {
@@ -6221,6 +6609,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "85",
         "base_Speed": "56",
+        "Generation": "4",
         "Picture": "pic389.png"
     },
     {
@@ -6237,6 +6626,7 @@
         "base_Sp_Attack": "58",
         "base_Sp_Defense": "44",
         "base_Speed": "61",
+        "Generation": "4",
         "Picture": "pic390.png"
     },
     {
@@ -6253,6 +6643,7 @@
         "base_Sp_Attack": "78",
         "base_Sp_Defense": "52",
         "base_Speed": "81",
+        "Generation": "4",
         "Picture": "pic391.png"
     },
     {
@@ -6269,6 +6660,7 @@
         "base_Sp_Attack": "104",
         "base_Sp_Defense": "71",
         "base_Speed": "108",
+        "Generation": "4",
         "Picture": "pic392.png"
     },
     {
@@ -6285,6 +6677,7 @@
         "base_Sp_Attack": "61",
         "base_Sp_Defense": "56",
         "base_Speed": "40",
+        "Generation": "4",
         "Picture": "pic393.png"
     },
     {
@@ -6301,6 +6694,7 @@
         "base_Sp_Attack": "81",
         "base_Sp_Defense": "76",
         "base_Speed": "50",
+        "Generation": "4",
         "Picture": "pic394.png"
     },
     {
@@ -6317,6 +6711,7 @@
         "base_Sp_Attack": "111",
         "base_Sp_Defense": "101",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic395.png"
     },
     {
@@ -6333,6 +6728,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic396.png"
     },
     {
@@ -6349,6 +6745,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic397.png"
     },
     {
@@ -6365,6 +6762,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "60",
         "base_Speed": "100",
+        "Generation": "4",
         "Picture": "pic398.png"
     },
     {
@@ -6381,6 +6779,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "40",
         "base_Speed": "31",
+        "Generation": "4",
         "Picture": "pic399.png"
     },
     {
@@ -6397,6 +6796,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "60",
         "base_Speed": "71",
+        "Generation": "4",
         "Picture": "pic400.png"
     },
     {
@@ -6413,6 +6813,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "41",
         "base_Speed": "25",
+        "Generation": "4",
         "Picture": "pic401.png"
     },
     {
@@ -6429,6 +6830,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "51",
         "base_Speed": "65",
+        "Generation": "4",
         "Picture": "pic402.png"
     },
     {
@@ -6445,6 +6847,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "34",
         "base_Speed": "45",
+        "Generation": "4",
         "Picture": "pic403.png"
     },
     {
@@ -6461,6 +6864,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "49",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic404.png"
     },
     {
@@ -6477,6 +6881,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "79",
         "base_Speed": "70",
+        "Generation": "4",
         "Picture": "pic405.png"
     },
     {
@@ -6493,6 +6898,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "70",
         "base_Speed": "55",
+        "Generation": "4",
         "Picture": "pic406.png"
     },
     {
@@ -6509,6 +6915,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "105",
         "base_Speed": "90",
+        "Generation": "4",
         "Picture": "pic407.png"
     },
     {
@@ -6525,6 +6932,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "58",
+        "Generation": "4",
         "Picture": "pic408.png"
     },
     {
@@ -6541,6 +6949,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "50",
         "base_Speed": "58",
+        "Generation": "4",
         "Picture": "pic409.png"
     },
     {
@@ -6557,6 +6966,7 @@
         "base_Sp_Attack": "42",
         "base_Sp_Defense": "88",
         "base_Speed": "30",
+        "Generation": "4",
         "Picture": "pic410.png"
     },
     {
@@ -6573,6 +6983,7 @@
         "base_Sp_Attack": "47",
         "base_Sp_Defense": "138",
         "base_Speed": "30",
+        "Generation": "4",
         "Picture": "pic411.png"
     },
     {
@@ -6589,6 +7000,7 @@
         "base_Sp_Attack": "29",
         "base_Sp_Defense": "45",
         "base_Speed": "36",
+        "Generation": "4",
         "Picture": "pic412.png"
     },
     {
@@ -6605,6 +7017,7 @@
         "base_Sp_Attack": "79",
         "base_Sp_Defense": "105",
         "base_Speed": "36",
+        "Generation": "4",
         "Picture": "pic413.png"
     },
     {
@@ -6621,6 +7034,7 @@
         "base_Sp_Attack": "94",
         "base_Sp_Defense": "50",
         "base_Speed": "66",
+        "Generation": "4",
         "Picture": "pic414.png"
     },
     {
@@ -6637,6 +7051,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "42",
         "base_Speed": "70",
+        "Generation": "4",
         "Picture": "pic415.png"
     },
     {
@@ -6653,6 +7068,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "102",
         "base_Speed": "40",
+        "Generation": "4",
         "Picture": "pic416.png"
     },
     {
@@ -6669,6 +7085,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "90",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic417.png"
     },
     {
@@ -6685,6 +7102,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "30",
         "base_Speed": "85",
+        "Generation": "4",
         "Picture": "pic418.png"
     },
     {
@@ -6701,6 +7119,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "50",
         "base_Speed": "115",
+        "Generation": "4",
         "Picture": "pic419.png"
     },
     {
@@ -6717,6 +7136,7 @@
         "base_Sp_Attack": "62",
         "base_Sp_Defense": "53",
         "base_Speed": "35",
+        "Generation": "4",
         "Picture": "pic420.png"
     },
     {
@@ -6733,6 +7153,7 @@
         "base_Sp_Attack": "87",
         "base_Sp_Defense": "78",
         "base_Speed": "85",
+        "Generation": "4",
         "Picture": "pic421.png"
     },
     {
@@ -6749,6 +7170,7 @@
         "base_Sp_Attack": "57",
         "base_Sp_Defense": "62",
         "base_Speed": "34",
+        "Generation": "4",
         "Picture": "pic422.png"
     },
     {
@@ -6765,6 +7187,7 @@
         "base_Sp_Attack": "92",
         "base_Sp_Defense": "82",
         "base_Speed": "39",
+        "Generation": "4",
         "Picture": "pic423.png"
     },
     {
@@ -6781,6 +7204,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "66",
         "base_Speed": "115",
+        "Generation": "4",
         "Picture": "pic424.png"
     },
     {
@@ -6797,6 +7221,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "44",
         "base_Speed": "70",
+        "Generation": "4",
         "Picture": "pic425.png"
     },
     {
@@ -6813,6 +7238,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "54",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic426.png"
     },
     {
@@ -6829,6 +7255,7 @@
         "base_Sp_Attack": "44",
         "base_Sp_Defense": "56",
         "base_Speed": "85",
+        "Generation": "4",
         "Picture": "pic427.png"
     },
     {
@@ -6845,6 +7272,7 @@
         "base_Sp_Attack": "54",
         "base_Sp_Defense": "96",
         "base_Speed": "105",
+        "Generation": "4",
         "Picture": "pic428.png"
     },
     {
@@ -6861,6 +7289,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "105",
         "base_Speed": "105",
+        "Generation": "4",
         "Picture": "pic429.png"
     },
     {
@@ -6877,6 +7306,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "52",
         "base_Speed": "71",
+        "Generation": "4",
         "Picture": "pic430.png"
     },
     {
@@ -6893,6 +7323,7 @@
         "base_Sp_Attack": "42",
         "base_Sp_Defense": "37",
         "base_Speed": "85",
+        "Generation": "4",
         "Picture": "pic431.png"
     },
     {
@@ -6909,6 +7340,7 @@
         "base_Sp_Attack": "64",
         "base_Sp_Defense": "59",
         "base_Speed": "112",
+        "Generation": "4",
         "Picture": "pic432.png"
     },
     {
@@ -6925,6 +7357,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "50",
         "base_Speed": "45",
+        "Generation": "4",
         "Picture": "pic433.png"
     },
     {
@@ -6941,6 +7374,7 @@
         "base_Sp_Attack": "41",
         "base_Sp_Defense": "41",
         "base_Speed": "74",
+        "Generation": "4",
         "Picture": "pic434.png"
     },
     {
@@ -6957,6 +7391,7 @@
         "base_Sp_Attack": "71",
         "base_Sp_Defense": "61",
         "base_Speed": "84",
+        "Generation": "4",
         "Picture": "pic435.png"
     },
     {
@@ -6973,6 +7408,7 @@
         "base_Sp_Attack": "24",
         "base_Sp_Defense": "86",
         "base_Speed": "23",
+        "Generation": "4",
         "Picture": "pic436.png"
     },
     {
@@ -6989,6 +7425,7 @@
         "base_Sp_Attack": "79",
         "base_Sp_Defense": "116",
         "base_Speed": "33",
+        "Generation": "4",
         "Picture": "pic437.png"
     },
     {
@@ -7005,6 +7442,7 @@
         "base_Sp_Attack": "10",
         "base_Sp_Defense": "45",
         "base_Speed": "10",
+        "Generation": "4",
         "Picture": "pic438.png"
     },
     {
@@ -7021,6 +7459,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "90",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic439.png"
     },
     {
@@ -7037,6 +7476,7 @@
         "base_Sp_Attack": "15",
         "base_Sp_Defense": "65",
         "base_Speed": "30",
+        "Generation": "4",
         "Picture": "pic440.png"
     },
     {
@@ -7053,6 +7493,7 @@
         "base_Sp_Attack": "92",
         "base_Sp_Defense": "42",
         "base_Speed": "91",
+        "Generation": "4",
         "Picture": "pic441.png"
     },
     {
@@ -7069,6 +7510,7 @@
         "base_Sp_Attack": "92",
         "base_Sp_Defense": "108",
         "base_Speed": "35",
+        "Generation": "4",
         "Picture": "pic442.png"
     },
     {
@@ -7085,6 +7527,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "45",
         "base_Speed": "42",
+        "Generation": "4",
         "Picture": "pic443.png"
     },
     {
@@ -7101,6 +7544,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "55",
         "base_Speed": "82",
+        "Generation": "4",
         "Picture": "pic444.png"
     },
     {
@@ -7117,6 +7561,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "85",
         "base_Speed": "102",
+        "Generation": "4",
         "Picture": "pic445.png"
     },
     {
@@ -7133,6 +7578,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "85",
         "base_Speed": "5",
+        "Generation": "4",
         "Picture": "pic446.png"
     },
     {
@@ -7149,6 +7595,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "40",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic447.png"
     },
     {
@@ -7165,6 +7612,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "70",
         "base_Speed": "90",
+        "Generation": "4",
         "Picture": "pic448.png"
     },
     {
@@ -7181,6 +7629,7 @@
         "base_Sp_Attack": "38",
         "base_Sp_Defense": "42",
         "base_Speed": "32",
+        "Generation": "4",
         "Picture": "pic449.png"
     },
     {
@@ -7197,6 +7646,7 @@
         "base_Sp_Attack": "68",
         "base_Sp_Defense": "72",
         "base_Speed": "47",
+        "Generation": "4",
         "Picture": "pic450.png"
     },
     {
@@ -7213,6 +7663,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "55",
         "base_Speed": "65",
+        "Generation": "4",
         "Picture": "pic451.png"
     },
     {
@@ -7229,6 +7680,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "75",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic452.png"
     },
     {
@@ -7245,6 +7697,7 @@
         "base_Sp_Attack": "61",
         "base_Sp_Defense": "40",
         "base_Speed": "50",
+        "Generation": "4",
         "Picture": "pic453.png"
     },
     {
@@ -7261,6 +7714,7 @@
         "base_Sp_Attack": "86",
         "base_Sp_Defense": "65",
         "base_Speed": "85",
+        "Generation": "4",
         "Picture": "pic454.png"
     },
     {
@@ -7277,6 +7731,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "72",
         "base_Speed": "46",
+        "Generation": "4",
         "Picture": "pic455.png"
     },
     {
@@ -7293,6 +7748,7 @@
         "base_Sp_Attack": "49",
         "base_Sp_Defense": "61",
         "base_Speed": "66",
+        "Generation": "4",
         "Picture": "pic456.png"
     },
     {
@@ -7309,6 +7765,7 @@
         "base_Sp_Attack": "69",
         "base_Sp_Defense": "86",
         "base_Speed": "91",
+        "Generation": "4",
         "Picture": "pic457.png"
     },
     {
@@ -7325,6 +7782,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "120",
         "base_Speed": "50",
+        "Generation": "4",
         "Picture": "pic458.png"
     },
     {
@@ -7341,6 +7799,7 @@
         "base_Sp_Attack": "62",
         "base_Sp_Defense": "60",
         "base_Speed": "40",
+        "Generation": "4",
         "Picture": "pic459.png"
     },
     {
@@ -7357,6 +7816,7 @@
         "base_Sp_Attack": "92",
         "base_Sp_Defense": "85",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic460.png"
     },
     {
@@ -7373,6 +7833,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "85",
         "base_Speed": "125",
+        "Generation": "4",
         "Picture": "pic461.png"
     },
     {
@@ -7389,6 +7850,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "90",
         "base_Speed": "60",
+        "Generation": "4",
         "Picture": "pic462.png"
     },
     {
@@ -7405,6 +7867,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "95",
         "base_Speed": "50",
+        "Generation": "4",
         "Picture": "pic463.png"
     },
     {
@@ -7421,6 +7884,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "40",
+        "Generation": "4",
         "Picture": "pic464.png"
     },
     {
@@ -7437,6 +7901,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "50",
         "base_Speed": "50",
+        "Generation": "4",
         "Picture": "pic465.png"
     },
     {
@@ -7453,6 +7918,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "85",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic466.png"
     },
     {
@@ -7469,6 +7935,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "95",
         "base_Speed": "83",
+        "Generation": "4",
         "Picture": "pic467.png"
     },
     {
@@ -7485,6 +7952,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "115",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic468.png"
     },
     {
@@ -7501,6 +7969,7 @@
         "base_Sp_Attack": "116",
         "base_Sp_Defense": "56",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic469.png"
     },
     {
@@ -7517,6 +7986,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "65",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic470.png"
     },
     {
@@ -7533,6 +8003,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "95",
         "base_Speed": "65",
+        "Generation": "4",
         "Picture": "pic471.png"
     },
     {
@@ -7549,6 +8020,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "75",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic472.png"
     },
     {
@@ -7565,6 +8037,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "60",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic473.png"
     },
     {
@@ -7581,6 +8054,7 @@
         "base_Sp_Attack": "135",
         "base_Sp_Defense": "75",
         "base_Speed": "90",
+        "Generation": "4",
         "Picture": "pic474.png"
     },
     {
@@ -7597,6 +8071,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "115",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic475.png"
     },
     {
@@ -7613,6 +8088,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "150",
         "base_Speed": "40",
+        "Generation": "4",
         "Picture": "pic476.png"
     },
     {
@@ -7629,6 +8105,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "135",
         "base_Speed": "45",
+        "Generation": "4",
         "Picture": "pic477.png"
     },
     {
@@ -7645,6 +8122,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "70",
         "base_Speed": "110",
+        "Generation": "4",
         "Picture": "pic478.png"
     },
     {
@@ -7661,6 +8139,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "77",
         "base_Speed": "91",
+        "Generation": "4",
         "Picture": "pic479.png"
     },
     {
@@ -7677,6 +8156,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "130",
         "base_Speed": "95",
+        "Generation": "4",
         "Picture": "pic480.png"
     },
     {
@@ -7693,6 +8173,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "105",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic481.png"
     },
     {
@@ -7709,6 +8190,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "70",
         "base_Speed": "115",
+        "Generation": "4",
         "Picture": "pic482.png"
     },
     {
@@ -7725,6 +8207,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "100",
         "base_Speed": "90",
+        "Generation": "4",
         "Picture": "pic483.png"
     },
     {
@@ -7741,6 +8224,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "120",
         "base_Speed": "100",
+        "Generation": "4",
         "Picture": "pic484.png"
     },
     {
@@ -7757,6 +8241,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "106",
         "base_Speed": "77",
+        "Generation": "4",
         "Picture": "pic485.png"
     },
     {
@@ -7773,6 +8258,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "110",
         "base_Speed": "100",
+        "Generation": "4",
         "Picture": "pic486.png"
     },
     {
@@ -7789,6 +8275,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "120",
         "base_Speed": "90",
+        "Generation": "4",
         "Picture": "pic487.png"
     },
     {
@@ -7805,6 +8292,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "130",
         "base_Speed": "85",
+        "Generation": "4",
         "Picture": "pic488.png"
     },
     {
@@ -7821,6 +8309,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "80",
         "base_Speed": "80",
+        "Generation": "4",
         "Picture": "pic489.png"
     },
     {
@@ -7837,6 +8326,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "4",
         "Picture": "pic490.png"
     },
     {
@@ -7853,6 +8343,7 @@
         "base_Sp_Attack": "135",
         "base_Sp_Defense": "90",
         "base_Speed": "125",
+        "Generation": "4",
         "Picture": "pic491.png"
     },
     {
@@ -7869,6 +8360,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "4",
         "Picture": "pic492.png"
     },
     {
@@ -7885,6 +8377,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "120",
         "base_Speed": "120",
+        "Generation": "4",
         "Picture": "pic493.png"
     },
     {
@@ -7901,6 +8394,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "100",
+        "Generation": "5",
         "Picture": "pic494.png"
     },
     {
@@ -7917,6 +8411,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "63",
+        "Generation": "5",
         "Picture": "pic495.png"
     },
     {
@@ -7933,6 +8428,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "75",
         "base_Speed": "83",
+        "Generation": "5",
         "Picture": "pic496.png"
     },
     {
@@ -7949,6 +8445,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "95",
         "base_Speed": "113",
+        "Generation": "5",
         "Picture": "pic497.png"
     },
     {
@@ -7965,6 +8462,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "45",
+        "Generation": "5",
         "Picture": "pic498.png"
     },
     {
@@ -7981,6 +8479,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "55",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic499.png"
     },
     {
@@ -7997,6 +8496,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "65",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic500.png"
     },
     {
@@ -8013,6 +8513,7 @@
         "base_Sp_Attack": "63",
         "base_Sp_Defense": "45",
         "base_Speed": "45",
+        "Generation": "5",
         "Picture": "pic501.png"
     },
     {
@@ -8029,6 +8530,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "60",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic502.png"
     },
     {
@@ -8045,6 +8547,7 @@
         "base_Sp_Attack": "108",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "5",
         "Picture": "pic503.png"
     },
     {
@@ -8061,6 +8564,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "39",
         "base_Speed": "42",
+        "Generation": "5",
         "Picture": "pic504.png"
     },
     {
@@ -8077,6 +8581,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "69",
         "base_Speed": "77",
+        "Generation": "5",
         "Picture": "pic505.png"
     },
     {
@@ -8093,6 +8598,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "45",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic506.png"
     },
     {
@@ -8109,6 +8615,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "65",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic507.png"
     },
     {
@@ -8125,6 +8632,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "90",
         "base_Speed": "80",
+        "Generation": "5",
         "Picture": "pic508.png"
     },
     {
@@ -8141,6 +8649,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "37",
         "base_Speed": "66",
+        "Generation": "5",
         "Picture": "pic509.png"
     },
     {
@@ -8157,6 +8666,7 @@
         "base_Sp_Attack": "88",
         "base_Sp_Defense": "50",
         "base_Speed": "106",
+        "Generation": "5",
         "Picture": "pic510.png"
     },
     {
@@ -8173,6 +8683,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "48",
         "base_Speed": "64",
+        "Generation": "5",
         "Picture": "pic511.png"
     },
     {
@@ -8189,6 +8700,7 @@
         "base_Sp_Attack": "98",
         "base_Sp_Defense": "63",
         "base_Speed": "101",
+        "Generation": "5",
         "Picture": "pic512.png"
     },
     {
@@ -8205,6 +8717,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "48",
         "base_Speed": "64",
+        "Generation": "5",
         "Picture": "pic513.png"
     },
     {
@@ -8221,6 +8734,7 @@
         "base_Sp_Attack": "98",
         "base_Sp_Defense": "63",
         "base_Speed": "101",
+        "Generation": "5",
         "Picture": "pic514.png"
     },
     {
@@ -8237,6 +8751,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "48",
         "base_Speed": "64",
+        "Generation": "5",
         "Picture": "pic515.png"
     },
     {
@@ -8253,6 +8768,7 @@
         "base_Sp_Attack": "98",
         "base_Sp_Defense": "63",
         "base_Speed": "101",
+        "Generation": "5",
         "Picture": "pic516.png"
     },
     {
@@ -8269,6 +8785,7 @@
         "base_Sp_Attack": "67",
         "base_Sp_Defense": "55",
         "base_Speed": "24",
+        "Generation": "5",
         "Picture": "pic517.png"
     },
     {
@@ -8285,6 +8802,7 @@
         "base_Sp_Attack": "107",
         "base_Sp_Defense": "95",
         "base_Speed": "29",
+        "Generation": "5",
         "Picture": "pic518.png"
     },
     {
@@ -8301,6 +8819,7 @@
         "base_Sp_Attack": "36",
         "base_Sp_Defense": "30",
         "base_Speed": "43",
+        "Generation": "5",
         "Picture": "pic519.png"
     },
     {
@@ -8317,6 +8836,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "42",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic520.png"
     },
     {
@@ -8333,6 +8853,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "55",
         "base_Speed": "93",
+        "Generation": "5",
         "Picture": "pic521.png"
     },
     {
@@ -8349,6 +8870,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "32",
         "base_Speed": "76",
+        "Generation": "5",
         "Picture": "pic522.png"
     },
     {
@@ -8365,6 +8887,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "63",
         "base_Speed": "116",
+        "Generation": "5",
         "Picture": "pic523.png"
     },
     {
@@ -8381,6 +8904,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "15",
+        "Generation": "5",
         "Picture": "pic524.png"
     },
     {
@@ -8397,6 +8921,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "40",
         "base_Speed": "20",
+        "Generation": "5",
         "Picture": "pic525.png"
     },
     {
@@ -8413,6 +8938,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "80",
         "base_Speed": "25",
+        "Generation": "5",
         "Picture": "pic526.png"
     },
     {
@@ -8429,6 +8955,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "43",
         "base_Speed": "72",
+        "Generation": "5",
         "Picture": "pic527.png"
     },
     {
@@ -8445,6 +8972,7 @@
         "base_Sp_Attack": "77",
         "base_Sp_Defense": "55",
         "base_Speed": "114",
+        "Generation": "5",
         "Picture": "pic528.png"
     },
     {
@@ -8461,6 +8989,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "45",
         "base_Speed": "68",
+        "Generation": "5",
         "Picture": "pic529.png"
     },
     {
@@ -8477,6 +9006,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "65",
         "base_Speed": "88",
+        "Generation": "5",
         "Picture": "pic530.png"
     },
     {
@@ -8493,6 +9023,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "86",
         "base_Speed": "50",
+        "Generation": "5",
         "Picture": "pic531.png"
     },
     {
@@ -8509,6 +9040,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "35",
         "base_Speed": "35",
+        "Generation": "5",
         "Picture": "pic532.png"
     },
     {
@@ -8525,6 +9057,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "40",
+        "Generation": "5",
         "Picture": "pic533.png"
     },
     {
@@ -8541,6 +9074,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "45",
+        "Generation": "5",
         "Picture": "pic534.png"
     },
     {
@@ -8557,6 +9091,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "40",
         "base_Speed": "64",
+        "Generation": "5",
         "Picture": "pic535.png"
     },
     {
@@ -8573,6 +9108,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "55",
         "base_Speed": "69",
+        "Generation": "5",
         "Picture": "pic536.png"
     },
     {
@@ -8589,6 +9125,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "75",
         "base_Speed": "74",
+        "Generation": "5",
         "Picture": "pic537.png"
     },
     {
@@ -8605,6 +9142,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "85",
         "base_Speed": "45",
+        "Generation": "5",
         "Picture": "pic538.png"
     },
     {
@@ -8621,6 +9159,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "75",
         "base_Speed": "85",
+        "Generation": "5",
         "Picture": "pic539.png"
     },
     {
@@ -8637,6 +9176,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "60",
         "base_Speed": "42",
+        "Generation": "5",
         "Picture": "pic540.png"
     },
     {
@@ -8653,6 +9193,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "80",
         "base_Speed": "42",
+        "Generation": "5",
         "Picture": "pic541.png"
     },
     {
@@ -8669,6 +9210,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "80",
         "base_Speed": "92",
+        "Generation": "5",
         "Picture": "pic542.png"
     },
     {
@@ -8685,6 +9227,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "39",
         "base_Speed": "57",
+        "Generation": "5",
         "Picture": "pic543.png"
     },
     {
@@ -8701,6 +9244,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "79",
         "base_Speed": "47",
+        "Generation": "5",
         "Picture": "pic544.png"
     },
     {
@@ -8717,6 +9261,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "69",
         "base_Speed": "112",
+        "Generation": "5",
         "Picture": "pic545.png"
     },
     {
@@ -8733,6 +9278,7 @@
         "base_Sp_Attack": "37",
         "base_Sp_Defense": "50",
         "base_Speed": "66",
+        "Generation": "5",
         "Picture": "pic546.png"
     },
     {
@@ -8749,6 +9295,7 @@
         "base_Sp_Attack": "77",
         "base_Sp_Defense": "75",
         "base_Speed": "116",
+        "Generation": "5",
         "Picture": "pic547.png"
     },
     {
@@ -8765,6 +9312,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "50",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic548.png"
     },
     {
@@ -8781,6 +9329,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "75",
         "base_Speed": "90",
+        "Generation": "5",
         "Picture": "pic549.png"
     },
     {
@@ -8797,6 +9346,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "55",
         "base_Speed": "98",
+        "Generation": "5",
         "Picture": "pic550.png"
     },
     {
@@ -8813,6 +9363,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic551.png"
     },
     {
@@ -8829,6 +9380,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "74",
+        "Generation": "5",
         "Picture": "pic552.png"
     },
     {
@@ -8845,6 +9397,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "70",
         "base_Speed": "92",
+        "Generation": "5",
         "Picture": "pic553.png"
     },
     {
@@ -8861,6 +9414,7 @@
         "base_Sp_Attack": "15",
         "base_Sp_Defense": "45",
         "base_Speed": "50",
+        "Generation": "5",
         "Picture": "pic554.png"
     },
     {
@@ -8877,6 +9431,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "55",
         "base_Speed": "95",
+        "Generation": "5",
         "Picture": "pic555.png"
     },
     {
@@ -8893,6 +9448,7 @@
         "base_Sp_Attack": "106",
         "base_Sp_Defense": "67",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic556.png"
     },
     {
@@ -8909,6 +9465,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "35",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic557.png"
     },
     {
@@ -8925,6 +9482,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "75",
         "base_Speed": "45",
+        "Generation": "5",
         "Picture": "pic558.png"
     },
     {
@@ -8941,6 +9499,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "70",
         "base_Speed": "48",
+        "Generation": "5",
         "Picture": "pic559.png"
     },
     {
@@ -8957,6 +9516,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "115",
         "base_Speed": "58",
+        "Generation": "5",
         "Picture": "pic560.png"
     },
     {
@@ -8973,6 +9533,7 @@
         "base_Sp_Attack": "103",
         "base_Sp_Defense": "80",
         "base_Speed": "97",
+        "Generation": "5",
         "Picture": "pic561.png"
     },
     {
@@ -8989,6 +9550,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic562.png"
     },
     {
@@ -9005,6 +9567,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "105",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic563.png"
     },
     {
@@ -9021,6 +9584,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "45",
         "base_Speed": "22",
+        "Generation": "5",
         "Picture": "pic564.png"
     },
     {
@@ -9037,6 +9601,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "65",
         "base_Speed": "32",
+        "Generation": "5",
         "Picture": "pic565.png"
     },
     {
@@ -9053,6 +9618,7 @@
         "base_Sp_Attack": "74",
         "base_Sp_Defense": "45",
         "base_Speed": "70",
+        "Generation": "5",
         "Picture": "pic566.png"
     },
     {
@@ -9069,6 +9635,7 @@
         "base_Sp_Attack": "112",
         "base_Sp_Defense": "65",
         "base_Speed": "110",
+        "Generation": "5",
         "Picture": "pic567.png"
     },
     {
@@ -9085,6 +9652,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "62",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic568.png"
     },
     {
@@ -9101,6 +9669,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "82",
         "base_Speed": "75",
+        "Generation": "5",
         "Picture": "pic569.png"
     },
     {
@@ -9117,6 +9686,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "40",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic570.png"
     },
     {
@@ -9133,6 +9703,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "60",
         "base_Speed": "105",
+        "Generation": "5",
         "Picture": "pic571.png"
     },
     {
@@ -9149,6 +9720,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "75",
+        "Generation": "5",
         "Picture": "pic572.png"
     },
     {
@@ -9165,6 +9737,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "60",
         "base_Speed": "115",
+        "Generation": "5",
         "Picture": "pic573.png"
     },
     {
@@ -9181,6 +9754,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "45",
+        "Generation": "5",
         "Picture": "pic574.png"
     },
     {
@@ -9197,6 +9771,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "85",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic575.png"
     },
     {
@@ -9213,6 +9788,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "110",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic576.png"
     },
     {
@@ -9229,6 +9805,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "50",
         "base_Speed": "20",
+        "Generation": "5",
         "Picture": "pic577.png"
     },
     {
@@ -9245,6 +9822,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "60",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic578.png"
     },
     {
@@ -9261,6 +9839,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "85",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic579.png"
     },
     {
@@ -9277,6 +9856,7 @@
         "base_Sp_Attack": "44",
         "base_Sp_Defense": "50",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic580.png"
     },
     {
@@ -9293,6 +9873,7 @@
         "base_Sp_Attack": "87",
         "base_Sp_Defense": "63",
         "base_Speed": "98",
+        "Generation": "5",
         "Picture": "pic581.png"
     },
     {
@@ -9309,6 +9890,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "60",
         "base_Speed": "44",
+        "Generation": "5",
         "Picture": "pic582.png"
     },
     {
@@ -9325,6 +9907,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "75",
         "base_Speed": "59",
+        "Generation": "5",
         "Picture": "pic583.png"
     },
     {
@@ -9341,6 +9924,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "95",
         "base_Speed": "79",
+        "Generation": "5",
         "Picture": "pic584.png"
     },
     {
@@ -9357,6 +9941,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "75",
+        "Generation": "5",
         "Picture": "pic585.png"
     },
     {
@@ -9373,6 +9958,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "95",
+        "Generation": "5",
         "Picture": "pic586.png"
     },
     {
@@ -9389,6 +9975,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "60",
         "base_Speed": "103",
+        "Generation": "5",
         "Picture": "pic587.png"
     },
     {
@@ -9405,6 +9992,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "45",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic588.png"
     },
     {
@@ -9421,6 +10009,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "105",
         "base_Speed": "20",
+        "Generation": "5",
         "Picture": "pic589.png"
     },
     {
@@ -9437,6 +10026,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "55",
         "base_Speed": "15",
+        "Generation": "5",
         "Picture": "pic590.png"
     },
     {
@@ -9453,6 +10043,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "80",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic591.png"
     },
     {
@@ -9469,6 +10060,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "85",
         "base_Speed": "40",
+        "Generation": "5",
         "Picture": "pic592.png"
     },
     {
@@ -9485,6 +10077,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "105",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic593.png"
     },
     {
@@ -9501,6 +10094,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "45",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic594.png"
     },
     {
@@ -9517,6 +10111,7 @@
         "base_Sp_Attack": "57",
         "base_Sp_Defense": "50",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic595.png"
     },
     {
@@ -9533,6 +10128,7 @@
         "base_Sp_Attack": "97",
         "base_Sp_Defense": "60",
         "base_Speed": "108",
+        "Generation": "5",
         "Picture": "pic596.png"
     },
     {
@@ -9549,6 +10145,7 @@
         "base_Sp_Attack": "24",
         "base_Sp_Defense": "86",
         "base_Speed": "10",
+        "Generation": "5",
         "Picture": "pic597.png"
     },
     {
@@ -9565,6 +10162,7 @@
         "base_Sp_Attack": "54",
         "base_Sp_Defense": "116",
         "base_Speed": "20",
+        "Generation": "5",
         "Picture": "pic598.png"
     },
     {
@@ -9581,6 +10179,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "60",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic599.png"
     },
     {
@@ -9597,6 +10196,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "85",
         "base_Speed": "50",
+        "Generation": "5",
         "Picture": "pic600.png"
     },
     {
@@ -9613,6 +10213,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "85",
         "base_Speed": "90",
+        "Generation": "5",
         "Picture": "pic601.png"
     },
     {
@@ -9629,6 +10230,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "40",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic602.png"
     },
     {
@@ -9645,6 +10247,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "70",
         "base_Speed": "40",
+        "Generation": "5",
         "Picture": "pic603.png"
     },
     {
@@ -9661,6 +10264,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "80",
         "base_Speed": "50",
+        "Generation": "5",
         "Picture": "pic604.png"
     },
     {
@@ -9677,6 +10281,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "55",
         "base_Speed": "30",
+        "Generation": "5",
         "Picture": "pic605.png"
     },
     {
@@ -9693,6 +10298,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "95",
         "base_Speed": "40",
+        "Generation": "5",
         "Picture": "pic606.png"
     },
     {
@@ -9709,6 +10315,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "55",
         "base_Speed": "20",
+        "Generation": "5",
         "Picture": "pic607.png"
     },
     {
@@ -9725,6 +10332,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "60",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic608.png"
     },
     {
@@ -9741,6 +10349,7 @@
         "base_Sp_Attack": "145",
         "base_Sp_Defense": "90",
         "base_Speed": "80",
+        "Generation": "5",
         "Picture": "pic609.png"
     },
     {
@@ -9757,6 +10366,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "40",
         "base_Speed": "57",
+        "Generation": "5",
         "Picture": "pic610.png"
     },
     {
@@ -9773,6 +10383,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "67",
+        "Generation": "5",
         "Picture": "pic611.png"
     },
     {
@@ -9789,6 +10400,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "97",
+        "Generation": "5",
         "Picture": "pic612.png"
     },
     {
@@ -9805,6 +10417,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "40",
         "base_Speed": "40",
+        "Generation": "5",
         "Picture": "pic613.png"
     },
     {
@@ -9821,6 +10434,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "80",
         "base_Speed": "50",
+        "Generation": "5",
         "Picture": "pic614.png"
     },
     {
@@ -9837,6 +10451,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "135",
         "base_Speed": "105",
+        "Generation": "5",
         "Picture": "pic615.png"
     },
     {
@@ -9853,6 +10468,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "65",
         "base_Speed": "25",
+        "Generation": "5",
         "Picture": "pic616.png"
     },
     {
@@ -9869,6 +10485,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "60",
         "base_Speed": "145",
+        "Generation": "5",
         "Picture": "pic617.png"
     },
     {
@@ -9885,6 +10502,7 @@
         "base_Sp_Attack": "81",
         "base_Sp_Defense": "99",
         "base_Speed": "32",
+        "Generation": "5",
         "Picture": "pic618.png"
     },
     {
@@ -9901,6 +10519,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "50",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic619.png"
     },
     {
@@ -9917,6 +10536,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "60",
         "base_Speed": "105",
+        "Generation": "5",
         "Picture": "pic620.png"
     },
     {
@@ -9933,6 +10553,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "90",
         "base_Speed": "48",
+        "Generation": "5",
         "Picture": "pic621.png"
     },
     {
@@ -9949,6 +10570,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "50",
         "base_Speed": "35",
+        "Generation": "5",
         "Picture": "pic622.png"
     },
     {
@@ -9965,6 +10587,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "80",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic623.png"
     },
     {
@@ -9981,6 +10604,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "40",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic624.png"
     },
     {
@@ -9997,6 +10621,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "70",
         "base_Speed": "70",
+        "Generation": "5",
         "Picture": "pic625.png"
     },
     {
@@ -10013,6 +10638,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "95",
         "base_Speed": "55",
+        "Generation": "5",
         "Picture": "pic626.png"
     },
     {
@@ -10029,6 +10655,7 @@
         "base_Sp_Attack": "37",
         "base_Sp_Defense": "50",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic627.png"
     },
     {
@@ -10045,6 +10672,7 @@
         "base_Sp_Attack": "57",
         "base_Sp_Defense": "75",
         "base_Speed": "80",
+        "Generation": "5",
         "Picture": "pic628.png"
     },
     {
@@ -10061,6 +10689,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "65",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic629.png"
     },
     {
@@ -10077,6 +10706,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "95",
         "base_Speed": "80",
+        "Generation": "5",
         "Picture": "pic630.png"
     },
     {
@@ -10093,6 +10723,7 @@
         "base_Sp_Attack": "105",
         "base_Sp_Defense": "66",
         "base_Speed": "65",
+        "Generation": "5",
         "Picture": "pic631.png"
     },
     {
@@ -10109,6 +10740,7 @@
         "base_Sp_Attack": "48",
         "base_Sp_Defense": "48",
         "base_Speed": "109",
+        "Generation": "5",
         "Picture": "pic632.png"
     },
     {
@@ -10125,6 +10757,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "50",
         "base_Speed": "38",
+        "Generation": "5",
         "Picture": "pic633.png"
     },
     {
@@ -10141,6 +10774,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "70",
         "base_Speed": "58",
+        "Generation": "5",
         "Picture": "pic634.png"
     },
     {
@@ -10157,6 +10791,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "90",
         "base_Speed": "98",
+        "Generation": "5",
         "Picture": "pic635.png"
     },
     {
@@ -10173,6 +10808,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "55",
         "base_Speed": "60",
+        "Generation": "5",
         "Picture": "pic636.png"
     },
     {
@@ -10189,6 +10825,7 @@
         "base_Sp_Attack": "135",
         "base_Sp_Defense": "105",
         "base_Speed": "100",
+        "Generation": "5",
         "Picture": "pic637.png"
     },
     {
@@ -10205,6 +10842,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "72",
         "base_Speed": "108",
+        "Generation": "5",
         "Picture": "pic638.png"
     },
     {
@@ -10221,6 +10859,7 @@
         "base_Sp_Attack": "72",
         "base_Sp_Defense": "90",
         "base_Speed": "108",
+        "Generation": "5",
         "Picture": "pic639.png"
     },
     {
@@ -10237,6 +10876,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "129",
         "base_Speed": "108",
+        "Generation": "5",
         "Picture": "pic640.png"
     },
     {
@@ -10253,6 +10893,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "80",
         "base_Speed": "111",
+        "Generation": "5",
         "Picture": "pic641.png"
     },
     {
@@ -10269,6 +10910,7 @@
         "base_Sp_Attack": "125",
         "base_Sp_Defense": "80",
         "base_Speed": "111",
+        "Generation": "5",
         "Picture": "pic642.png"
     },
     {
@@ -10285,6 +10927,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "120",
         "base_Speed": "90",
+        "Generation": "5",
         "Picture": "pic643.png"
     },
     {
@@ -10301,6 +10944,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "100",
         "base_Speed": "90",
+        "Generation": "5",
         "Picture": "pic644.png"
     },
     {
@@ -10317,6 +10961,7 @@
         "base_Sp_Attack": "115",
         "base_Sp_Defense": "80",
         "base_Speed": "101",
+        "Generation": "5",
         "Picture": "pic645.png"
     },
     {
@@ -10333,6 +10978,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "90",
         "base_Speed": "95",
+        "Generation": "5",
         "Picture": "pic646.png"
     },
     {
@@ -10349,6 +10995,7 @@
         "base_Sp_Attack": "129",
         "base_Sp_Defense": "90",
         "base_Speed": "108",
+        "Generation": "5",
         "Picture": "pic647.png"
     },
     {
@@ -10365,6 +11012,7 @@
         "base_Sp_Attack": "128",
         "base_Sp_Defense": "128",
         "base_Speed": "90",
+        "Generation": "5",
         "Picture": "pic648.png"
     },
     {
@@ -10381,6 +11029,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "95",
         "base_Speed": "99",
+        "Generation": "5",
         "Picture": "pic649.png"
     },
     {
@@ -10397,6 +11046,7 @@
         "base_Sp_Attack": "48",
         "base_Sp_Defense": "45",
         "base_Speed": "38",
+        "Generation": "6",
         "Picture": "pic650.png"
     },
     {
@@ -10413,6 +11063,7 @@
         "base_Sp_Attack": "56",
         "base_Sp_Defense": "58",
         "base_Speed": "57",
+        "Generation": "6",
         "Picture": "pic651.png"
     },
     {
@@ -10429,6 +11080,7 @@
         "base_Sp_Attack": "74",
         "base_Sp_Defense": "75",
         "base_Speed": "64",
+        "Generation": "6",
         "Picture": "pic652.png"
     },
     {
@@ -10445,6 +11097,7 @@
         "base_Sp_Attack": "62",
         "base_Sp_Defense": "60",
         "base_Speed": "60",
+        "Generation": "6",
         "Picture": "pic653.png"
     },
     {
@@ -10461,6 +11114,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "70",
         "base_Speed": "73",
+        "Generation": "6",
         "Picture": "pic654.png"
     },
     {
@@ -10477,6 +11131,7 @@
         "base_Sp_Attack": "114",
         "base_Sp_Defense": "100",
         "base_Speed": "104",
+        "Generation": "6",
         "Picture": "pic655.png"
     },
     {
@@ -10493,6 +11148,7 @@
         "base_Sp_Attack": "62",
         "base_Sp_Defense": "44",
         "base_Speed": "71",
+        "Generation": "6",
         "Picture": "pic656.png"
     },
     {
@@ -10509,6 +11165,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "56",
         "base_Speed": "97",
+        "Generation": "6",
         "Picture": "pic657.png"
     },
     {
@@ -10525,6 +11182,7 @@
         "base_Sp_Attack": "103",
         "base_Sp_Defense": "71",
         "base_Speed": "122",
+        "Generation": "6",
         "Picture": "pic658.png"
     },
     {
@@ -10541,6 +11199,7 @@
         "base_Sp_Attack": "32",
         "base_Sp_Defense": "36",
         "base_Speed": "57",
+        "Generation": "6",
         "Picture": "pic659.png"
     },
     {
@@ -10557,6 +11216,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "77",
         "base_Speed": "78",
+        "Generation": "6",
         "Picture": "pic660.png"
     },
     {
@@ -10573,6 +11233,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "38",
         "base_Speed": "62",
+        "Generation": "6",
         "Picture": "pic661.png"
     },
     {
@@ -10589,6 +11250,7 @@
         "base_Sp_Attack": "56",
         "base_Sp_Defense": "52",
         "base_Speed": "84",
+        "Generation": "6",
         "Picture": "pic662.png"
     },
     {
@@ -10605,6 +11267,7 @@
         "base_Sp_Attack": "74",
         "base_Sp_Defense": "69",
         "base_Speed": "126",
+        "Generation": "6",
         "Picture": "pic663.png"
     },
     {
@@ -10621,6 +11284,7 @@
         "base_Sp_Attack": "27",
         "base_Sp_Defense": "25",
         "base_Speed": "35",
+        "Generation": "6",
         "Picture": "pic664.png"
     },
     {
@@ -10637,6 +11301,7 @@
         "base_Sp_Attack": "27",
         "base_Sp_Defense": "30",
         "base_Speed": "29",
+        "Generation": "6",
         "Picture": "pic665.png"
     },
     {
@@ -10653,6 +11318,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "50",
         "base_Speed": "89",
+        "Generation": "6",
         "Picture": "pic666.png"
     },
     {
@@ -10669,6 +11335,7 @@
         "base_Sp_Attack": "73",
         "base_Sp_Defense": "54",
         "base_Speed": "72",
+        "Generation": "6",
         "Picture": "pic667.png"
     },
     {
@@ -10685,6 +11352,7 @@
         "base_Sp_Attack": "109",
         "base_Sp_Defense": "66",
         "base_Speed": "106",
+        "Generation": "6",
         "Picture": "pic668.png"
     },
     {
@@ -10701,6 +11369,7 @@
         "base_Sp_Attack": "61",
         "base_Sp_Defense": "79",
         "base_Speed": "42",
+        "Generation": "6",
         "Picture": "pic669.png"
     },
     {
@@ -10717,6 +11386,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "98",
         "base_Speed": "52",
+        "Generation": "6",
         "Picture": "pic670.png"
     },
     {
@@ -10733,6 +11403,7 @@
         "base_Sp_Attack": "112",
         "base_Sp_Defense": "154",
         "base_Speed": "75",
+        "Generation": "6",
         "Picture": "pic671.png"
     },
     {
@@ -10749,6 +11420,7 @@
         "base_Sp_Attack": "62",
         "base_Sp_Defense": "57",
         "base_Speed": "52",
+        "Generation": "6",
         "Picture": "pic672.png"
     },
     {
@@ -10765,6 +11437,7 @@
         "base_Sp_Attack": "97",
         "base_Sp_Defense": "81",
         "base_Speed": "68",
+        "Generation": "6",
         "Picture": "pic673.png"
     },
     {
@@ -10781,6 +11454,7 @@
         "base_Sp_Attack": "46",
         "base_Sp_Defense": "48",
         "base_Speed": "43",
+        "Generation": "6",
         "Picture": "pic674.png"
     },
     {
@@ -10797,6 +11471,7 @@
         "base_Sp_Attack": "69",
         "base_Sp_Defense": "71",
         "base_Speed": "58",
+        "Generation": "6",
         "Picture": "pic675.png"
     },
     {
@@ -10813,6 +11488,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "90",
         "base_Speed": "102",
+        "Generation": "6",
         "Picture": "pic676.png"
     },
     {
@@ -10829,6 +11505,7 @@
         "base_Sp_Attack": "63",
         "base_Sp_Defense": "60",
         "base_Speed": "68",
+        "Generation": "6",
         "Picture": "pic677.png"
     },
     {
@@ -10845,6 +11522,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "81",
         "base_Speed": "104",
+        "Generation": "6",
         "Picture": "pic678.png"
     },
     {
@@ -10861,6 +11539,7 @@
         "base_Sp_Attack": "35",
         "base_Sp_Defense": "37",
         "base_Speed": "28",
+        "Generation": "6",
         "Picture": "pic679.png"
     },
     {
@@ -10877,6 +11556,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "49",
         "base_Speed": "35",
+        "Generation": "6",
         "Picture": "pic680.png"
     },
     {
@@ -10893,6 +11573,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "150",
         "base_Speed": "60",
+        "Generation": "6",
         "Picture": "pic681.png"
     },
     {
@@ -10909,6 +11590,7 @@
         "base_Sp_Attack": "63",
         "base_Sp_Defense": "65",
         "base_Speed": "23",
+        "Generation": "6",
         "Picture": "pic682.png"
     },
     {
@@ -10925,6 +11607,7 @@
         "base_Sp_Attack": "99",
         "base_Sp_Defense": "89",
         "base_Speed": "29",
+        "Generation": "6",
         "Picture": "pic683.png"
     },
     {
@@ -10941,6 +11624,7 @@
         "base_Sp_Attack": "59",
         "base_Sp_Defense": "57",
         "base_Speed": "49",
+        "Generation": "6",
         "Picture": "pic684.png"
     },
     {
@@ -10957,6 +11641,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "75",
         "base_Speed": "72",
+        "Generation": "6",
         "Picture": "pic685.png"
     },
     {
@@ -10973,6 +11658,7 @@
         "base_Sp_Attack": "37",
         "base_Sp_Defense": "46",
         "base_Speed": "45",
+        "Generation": "6",
         "Picture": "pic686.png"
     },
     {
@@ -10989,6 +11675,7 @@
         "base_Sp_Attack": "68",
         "base_Sp_Defense": "75",
         "base_Speed": "73",
+        "Generation": "6",
         "Picture": "pic687.png"
     },
     {
@@ -11005,6 +11692,7 @@
         "base_Sp_Attack": "39",
         "base_Sp_Defense": "56",
         "base_Speed": "50",
+        "Generation": "6",
         "Picture": "pic688.png"
     },
     {
@@ -11021,6 +11709,7 @@
         "base_Sp_Attack": "54",
         "base_Sp_Defense": "86",
         "base_Speed": "68",
+        "Generation": "6",
         "Picture": "pic689.png"
     },
     {
@@ -11037,6 +11726,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "60",
         "base_Speed": "30",
+        "Generation": "6",
         "Picture": "pic690.png"
     },
     {
@@ -11053,6 +11743,7 @@
         "base_Sp_Attack": "97",
         "base_Sp_Defense": "123",
         "base_Speed": "44",
+        "Generation": "6",
         "Picture": "pic691.png"
     },
     {
@@ -11069,6 +11760,7 @@
         "base_Sp_Attack": "58",
         "base_Sp_Defense": "63",
         "base_Speed": "44",
+        "Generation": "6",
         "Picture": "pic692.png"
     },
     {
@@ -11085,6 +11777,7 @@
         "base_Sp_Attack": "120",
         "base_Sp_Defense": "89",
         "base_Speed": "59",
+        "Generation": "6",
         "Picture": "pic693.png"
     },
     {
@@ -11101,6 +11794,7 @@
         "base_Sp_Attack": "61",
         "base_Sp_Defense": "43",
         "base_Speed": "70",
+        "Generation": "6",
         "Picture": "pic694.png"
     },
     {
@@ -11117,6 +11811,7 @@
         "base_Sp_Attack": "109",
         "base_Sp_Defense": "94",
         "base_Speed": "109",
+        "Generation": "6",
         "Picture": "pic695.png"
     },
     {
@@ -11133,6 +11828,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "48",
+        "Generation": "6",
         "Picture": "pic696.png"
     },
     {
@@ -11149,6 +11845,7 @@
         "base_Sp_Attack": "69",
         "base_Sp_Defense": "59",
         "base_Speed": "71",
+        "Generation": "6",
         "Picture": "pic697.png"
     },
     {
@@ -11165,6 +11862,7 @@
         "base_Sp_Attack": "67",
         "base_Sp_Defense": "63",
         "base_Speed": "46",
+        "Generation": "6",
         "Picture": "pic698.png"
     },
     {
@@ -11181,6 +11879,7 @@
         "base_Sp_Attack": "99",
         "base_Sp_Defense": "92",
         "base_Speed": "58",
+        "Generation": "6",
         "Picture": "pic699.png"
     },
     {
@@ -11197,6 +11896,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "130",
         "base_Speed": "60",
+        "Generation": "6",
         "Picture": "pic700.png"
     },
     {
@@ -11213,6 +11913,7 @@
         "base_Sp_Attack": "74",
         "base_Sp_Defense": "63",
         "base_Speed": "118",
+        "Generation": "6",
         "Picture": "pic701.png"
     },
     {
@@ -11229,6 +11930,7 @@
         "base_Sp_Attack": "81",
         "base_Sp_Defense": "67",
         "base_Speed": "101",
+        "Generation": "6",
         "Picture": "pic702.png"
     },
     {
@@ -11245,6 +11947,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "150",
         "base_Speed": "50",
+        "Generation": "6",
         "Picture": "pic703.png"
     },
     {
@@ -11261,6 +11964,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "75",
         "base_Speed": "40",
+        "Generation": "6",
         "Picture": "pic704.png"
     },
     {
@@ -11277,6 +11981,7 @@
         "base_Sp_Attack": "83",
         "base_Sp_Defense": "113",
         "base_Speed": "60",
+        "Generation": "6",
         "Picture": "pic705.png"
     },
     {
@@ -11293,6 +11998,7 @@
         "base_Sp_Attack": "110",
         "base_Sp_Defense": "150",
         "base_Speed": "80",
+        "Generation": "6",
         "Picture": "pic706.png"
     },
     {
@@ -11309,6 +12015,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "87",
         "base_Speed": "75",
+        "Generation": "6",
         "Picture": "pic707.png"
     },
     {
@@ -11325,6 +12032,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "60",
         "base_Speed": "38",
+        "Generation": "6",
         "Picture": "pic708.png"
     },
     {
@@ -11341,6 +12049,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "82",
         "base_Speed": "56",
+        "Generation": "6",
         "Picture": "pic709.png"
     },
     {
@@ -11357,6 +12066,7 @@
         "base_Sp_Attack": "44",
         "base_Sp_Defense": "55",
         "base_Speed": "41",
+        "Generation": "6",
         "Picture": "pic710.png"
     },
     {
@@ -11373,6 +12083,7 @@
         "base_Sp_Attack": "58",
         "base_Sp_Defense": "75",
         "base_Speed": "54",
+        "Generation": "6",
         "Picture": "pic711.png"
     },
     {
@@ -11389,6 +12100,7 @@
         "base_Sp_Attack": "32",
         "base_Sp_Defense": "35",
         "base_Speed": "28",
+        "Generation": "6",
         "Picture": "pic712.png"
     },
     {
@@ -11405,6 +12117,7 @@
         "base_Sp_Attack": "44",
         "base_Sp_Defense": "46",
         "base_Speed": "28",
+        "Generation": "6",
         "Picture": "pic713.png"
     },
     {
@@ -11421,6 +12134,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "40",
         "base_Speed": "55",
+        "Generation": "6",
         "Picture": "pic714.png"
     },
     {
@@ -11437,6 +12151,7 @@
         "base_Sp_Attack": "97",
         "base_Sp_Defense": "80",
         "base_Speed": "123",
+        "Generation": "6",
         "Picture": "pic715.png"
     },
     {
@@ -11453,6 +12168,7 @@
         "base_Sp_Attack": "131",
         "base_Sp_Defense": "98",
         "base_Speed": "99",
+        "Generation": "6",
         "Picture": "pic716.png"
     },
     {
@@ -11469,6 +12185,7 @@
         "base_Sp_Attack": "131",
         "base_Sp_Defense": "98",
         "base_Speed": "99",
+        "Generation": "6",
         "Picture": "pic717.png"
     },
     {
@@ -11485,6 +12202,7 @@
         "base_Sp_Attack": "81",
         "base_Sp_Defense": "95",
         "base_Speed": "95",
+        "Generation": "6",
         "Picture": "pic718.png"
     },
     {
@@ -11501,6 +12219,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "150",
         "base_Speed": "50",
+        "Generation": "6",
         "Picture": "pic719.png"
     },
     {
@@ -11517,6 +12236,7 @@
         "base_Sp_Attack": "150",
         "base_Sp_Defense": "130",
         "base_Speed": "70",
+        "Generation": "6",
         "Picture": "pic720.png"
     },
     {
@@ -11533,6 +12253,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "90",
         "base_Speed": "70",
+        "Generation": "6",
         "Picture": "pic721.png"
     },
     {
@@ -11549,6 +12270,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "50",
         "base_Speed": "42",
+        "Generation": "7",
         "Picture": "pic722.png"
     },
     {
@@ -11565,6 +12287,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "70",
         "base_Speed": "52",
+        "Generation": "7",
         "Picture": "pic723.png"
     },
     {
@@ -11581,6 +12304,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "100",
         "base_Speed": "70",
+        "Generation": "7",
         "Picture": "pic724.png"
     },
     {
@@ -11597,6 +12321,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "40",
         "base_Speed": "70",
+        "Generation": "7",
         "Picture": "pic725.png"
     },
     {
@@ -11613,6 +12338,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "50",
         "base_Speed": "90",
+        "Generation": "7",
         "Picture": "pic726.png"
     },
     {
@@ -11629,6 +12355,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "90",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic727.png"
     },
     {
@@ -11645,6 +12372,7 @@
         "base_Sp_Attack": "66",
         "base_Sp_Defense": "56",
         "base_Speed": "40",
+        "Generation": "7",
         "Picture": "pic728.png"
     },
     {
@@ -11661,6 +12389,7 @@
         "base_Sp_Attack": "91",
         "base_Sp_Defense": "81",
         "base_Speed": "50",
+        "Generation": "7",
         "Picture": "pic729.png"
     },
     {
@@ -11677,6 +12406,7 @@
         "base_Sp_Attack": "126",
         "base_Sp_Defense": "116",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic730.png"
     },
     {
@@ -11693,6 +12423,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "65",
+        "Generation": "7",
         "Picture": "pic731.png"
     },
     {
@@ -11709,6 +12440,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "50",
         "base_Speed": "75",
+        "Generation": "7",
         "Picture": "pic732.png"
     },
     {
@@ -11725,6 +12457,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "75",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic733.png"
     },
     {
@@ -11741,6 +12474,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "30",
         "base_Speed": "45",
+        "Generation": "7",
         "Picture": "pic734.png"
     },
     {
@@ -11757,6 +12491,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "60",
         "base_Speed": "45",
+        "Generation": "7",
         "Picture": "pic735.png"
     },
     {
@@ -11773,6 +12508,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "45",
         "base_Speed": "46",
+        "Generation": "7",
         "Picture": "pic736.png"
     },
     {
@@ -11789,6 +12525,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "75",
         "base_Speed": "36",
+        "Generation": "7",
         "Picture": "pic737.png"
     },
     {
@@ -11805,6 +12542,7 @@
         "base_Sp_Attack": "145",
         "base_Sp_Defense": "75",
         "base_Speed": "43",
+        "Generation": "7",
         "Picture": "pic738.png"
     },
     {
@@ -11821,6 +12559,7 @@
         "base_Sp_Attack": "42",
         "base_Sp_Defense": "47",
         "base_Speed": "63",
+        "Generation": "7",
         "Picture": "pic739.png"
     },
     {
@@ -11837,6 +12576,7 @@
         "base_Sp_Attack": "62",
         "base_Sp_Defense": "67",
         "base_Speed": "43",
+        "Generation": "7",
         "Picture": "pic740.png"
     },
     {
@@ -11853,6 +12593,7 @@
         "base_Sp_Attack": "98",
         "base_Sp_Defense": "70",
         "base_Speed": "93",
+        "Generation": "7",
         "Picture": "pic741.png"
     },
     {
@@ -11869,6 +12610,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "40",
         "base_Speed": "84",
+        "Generation": "7",
         "Picture": "pic742.png"
     },
     {
@@ -11885,6 +12627,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "70",
         "base_Speed": "124",
+        "Generation": "7",
         "Picture": "pic743.png"
     },
     {
@@ -11901,6 +12644,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "40",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic744.png"
     },
     {
@@ -11917,6 +12661,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "65",
         "base_Speed": "112",
+        "Generation": "7",
         "Picture": "pic745.png"
     },
     {
@@ -11933,6 +12678,7 @@
         "base_Sp_Attack": "25",
         "base_Sp_Defense": "25",
         "base_Speed": "40",
+        "Generation": "7",
         "Picture": "pic746.png"
     },
     {
@@ -11949,6 +12695,7 @@
         "base_Sp_Attack": "43",
         "base_Sp_Defense": "52",
         "base_Speed": "45",
+        "Generation": "7",
         "Picture": "pic747.png"
     },
     {
@@ -11965,6 +12712,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "142",
         "base_Speed": "35",
+        "Generation": "7",
         "Picture": "pic748.png"
     },
     {
@@ -11981,6 +12729,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "55",
         "base_Speed": "45",
+        "Generation": "7",
         "Picture": "pic749.png"
     },
     {
@@ -11997,6 +12746,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "85",
         "base_Speed": "35",
+        "Generation": "7",
         "Picture": "pic750.png"
     },
     {
@@ -12013,6 +12763,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "72",
         "base_Speed": "27",
+        "Generation": "7",
         "Picture": "pic751.png"
     },
     {
@@ -12029,6 +12780,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "132",
         "base_Speed": "42",
+        "Generation": "7",
         "Picture": "pic752.png"
     },
     {
@@ -12045,6 +12797,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "35",
         "base_Speed": "35",
+        "Generation": "7",
         "Picture": "pic753.png"
     },
     {
@@ -12061,6 +12814,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "90",
         "base_Speed": "45",
+        "Generation": "7",
         "Picture": "pic754.png"
     },
     {
@@ -12077,6 +12831,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "75",
         "base_Speed": "15",
+        "Generation": "7",
         "Picture": "pic755.png"
     },
     {
@@ -12093,6 +12848,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "100",
         "base_Speed": "30",
+        "Generation": "7",
         "Picture": "pic756.png"
     },
     {
@@ -12109,6 +12865,7 @@
         "base_Sp_Attack": "71",
         "base_Sp_Defense": "40",
         "base_Speed": "77",
+        "Generation": "7",
         "Picture": "pic757.png"
     },
     {
@@ -12125,6 +12882,7 @@
         "base_Sp_Attack": "111",
         "base_Sp_Defense": "60",
         "base_Speed": "117",
+        "Generation": "7",
         "Picture": "pic758.png"
     },
     {
@@ -12141,6 +12899,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "50",
         "base_Speed": "50",
+        "Generation": "7",
         "Picture": "pic759.png"
     },
     {
@@ -12157,6 +12916,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "60",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic760.png"
     },
     {
@@ -12173,6 +12933,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "38",
         "base_Speed": "32",
+        "Generation": "7",
         "Picture": "pic761.png"
     },
     {
@@ -12189,6 +12950,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "48",
         "base_Speed": "62",
+        "Generation": "7",
         "Picture": "pic762.png"
     },
     {
@@ -12205,6 +12967,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "98",
         "base_Speed": "72",
+        "Generation": "7",
         "Picture": "pic763.png"
     },
     {
@@ -12221,6 +12984,7 @@
         "base_Sp_Attack": "82",
         "base_Sp_Defense": "110",
         "base_Speed": "100",
+        "Generation": "7",
         "Picture": "pic764.png"
     },
     {
@@ -12237,6 +13001,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "110",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic765.png"
     },
     {
@@ -12253,6 +13018,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "60",
         "base_Speed": "80",
+        "Generation": "7",
         "Picture": "pic766.png"
     },
     {
@@ -12269,6 +13035,7 @@
         "base_Sp_Attack": "20",
         "base_Sp_Defense": "30",
         "base_Speed": "80",
+        "Generation": "7",
         "Picture": "pic767.png"
     },
     {
@@ -12285,6 +13052,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "90",
         "base_Speed": "40",
+        "Generation": "7",
         "Picture": "pic768.png"
     },
     {
@@ -12301,6 +13069,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "45",
         "base_Speed": "15",
+        "Generation": "7",
         "Picture": "pic769.png"
     },
     {
@@ -12317,6 +13086,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "75",
         "base_Speed": "35",
+        "Generation": "7",
         "Picture": "pic770.png"
     },
     {
@@ -12333,6 +13103,7 @@
         "base_Sp_Attack": "30",
         "base_Sp_Defense": "130",
         "base_Speed": "5",
+        "Generation": "7",
         "Picture": "pic771.png"
     },
     {
@@ -12349,6 +13120,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "95",
         "base_Speed": "59",
+        "Generation": "7",
         "Picture": "pic772.png"
     },
     {
@@ -12365,6 +13137,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "95",
         "base_Speed": "95",
+        "Generation": "7",
         "Picture": "pic773.png"
     },
     {
@@ -12381,6 +13154,7 @@
         "base_Sp_Attack": "60",
         "base_Sp_Defense": "100",
         "base_Speed": "60",
+        "Generation": "7",
         "Picture": "pic774.png"
     },
     {
@@ -12397,6 +13171,7 @@
         "base_Sp_Attack": "75",
         "base_Sp_Defense": "95",
         "base_Speed": "65",
+        "Generation": "7",
         "Picture": "pic775.png"
     },
     {
@@ -12413,6 +13188,7 @@
         "base_Sp_Attack": "91",
         "base_Sp_Defense": "85",
         "base_Speed": "36",
+        "Generation": "7",
         "Picture": "pic776.png"
     },
     {
@@ -12429,6 +13205,7 @@
         "base_Sp_Attack": "40",
         "base_Sp_Defense": "73",
         "base_Speed": "96",
+        "Generation": "7",
         "Picture": "pic777.png"
     },
     {
@@ -12445,6 +13222,7 @@
         "base_Sp_Attack": "50",
         "base_Sp_Defense": "105",
         "base_Speed": "96",
+        "Generation": "7",
         "Picture": "pic778.png"
     },
     {
@@ -12461,6 +13239,7 @@
         "base_Sp_Attack": "70",
         "base_Sp_Defense": "70",
         "base_Speed": "92",
+        "Generation": "7",
         "Picture": "pic779.png"
     },
     {
@@ -12477,6 +13256,7 @@
         "base_Sp_Attack": "135",
         "base_Sp_Defense": "91",
         "base_Speed": "36",
+        "Generation": "7",
         "Picture": "pic780.png"
     },
     {
@@ -12493,6 +13273,7 @@
         "base_Sp_Attack": "86",
         "base_Sp_Defense": "90",
         "base_Speed": "40",
+        "Generation": "7",
         "Picture": "pic781.png"
     },
     {
@@ -12509,6 +13290,7 @@
         "base_Sp_Attack": "45",
         "base_Sp_Defense": "45",
         "base_Speed": "45",
+        "Generation": "7",
         "Picture": "pic782.png"
     },
     {
@@ -12525,6 +13307,7 @@
         "base_Sp_Attack": "65",
         "base_Sp_Defense": "70",
         "base_Speed": "65",
+        "Generation": "7",
         "Picture": "pic783.png"
     },
     {
@@ -12541,6 +13324,7 @@
         "base_Sp_Attack": "100",
         "base_Sp_Defense": "105",
         "base_Speed": "85",
+        "Generation": "7",
         "Picture": "pic784.png"
     },
     {
@@ -12557,6 +13341,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "75",
         "base_Speed": "130",
+        "Generation": "7",
         "Picture": "pic785.png"
     },
     {
@@ -12573,6 +13358,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "115",
         "base_Speed": "95",
+        "Generation": "7",
         "Picture": "pic786.png"
     },
     {
@@ -12589,6 +13375,7 @@
         "base_Sp_Attack": "85",
         "base_Sp_Defense": "95",
         "base_Speed": "75",
+        "Generation": "7",
         "Picture": "pic787.png"
     },
     {
@@ -12605,6 +13392,7 @@
         "base_Sp_Attack": "95",
         "base_Sp_Defense": "130",
         "base_Speed": "85",
+        "Generation": "7",
         "Picture": "pic788.png"
     },
     {
@@ -12621,6 +13409,7 @@
         "base_Sp_Attack": "29",
         "base_Sp_Defense": "31",
         "base_Speed": "37",
+        "Generation": "7",
         "Picture": "pic789.png"
     },
     {
@@ -12637,6 +13426,7 @@
         "base_Sp_Attack": "29",
         "base_Sp_Defense": "131",
         "base_Speed": "37",
+        "Generation": "7",
         "Picture": "pic790.png"
     },
     {
@@ -12653,6 +13443,7 @@
         "base_Sp_Attack": "113",
         "base_Sp_Defense": "89",
         "base_Speed": "97",
+        "Generation": "7",
         "Picture": "pic791.png"
     },
     {
@@ -12669,6 +13460,7 @@
         "base_Sp_Attack": "137",
         "base_Sp_Defense": "107",
         "base_Speed": "97",
+        "Generation": "7",
         "Picture": "pic792.png"
     },
     {
@@ -12685,6 +13477,7 @@
         "base_Sp_Attack": "127",
         "base_Sp_Defense": "131",
         "base_Speed": "103",
+        "Generation": "7",
         "Picture": "pic793.png"
     },
     {
@@ -12701,6 +13494,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "53",
         "base_Speed": "79",
+        "Generation": "7",
         "Picture": "pic794.png"
     },
     {
@@ -12717,6 +13511,7 @@
         "base_Sp_Attack": "137",
         "base_Sp_Defense": "37",
         "base_Speed": "151",
+        "Generation": "7",
         "Picture": "pic795.png"
     },
     {
@@ -12733,6 +13528,7 @@
         "base_Sp_Attack": "173",
         "base_Sp_Defense": "71",
         "base_Speed": "83",
+        "Generation": "7",
         "Picture": "pic796.png"
     },
     {
@@ -12749,6 +13545,7 @@
         "base_Sp_Attack": "107",
         "base_Sp_Defense": "101",
         "base_Speed": "61",
+        "Generation": "7",
         "Picture": "pic797.png"
     },
     {
@@ -12765,6 +13562,7 @@
         "base_Sp_Attack": "59",
         "base_Sp_Defense": "31",
         "base_Speed": "109",
+        "Generation": "7",
         "Picture": "pic798.png"
     },
     {
@@ -12781,6 +13579,7 @@
         "base_Sp_Attack": "97",
         "base_Sp_Defense": "53",
         "base_Speed": "43",
+        "Generation": "7",
         "Picture": "pic799.png"
     },
     {
@@ -12797,6 +13596,7 @@
         "base_Sp_Attack": "127",
         "base_Sp_Defense": "89",
         "base_Speed": "79",
+        "Generation": "7",
         "Picture": "pic800.png"
     },
     {
@@ -12813,6 +13613,7 @@
         "base_Sp_Attack": "130",
         "base_Sp_Defense": "115",
         "base_Speed": "65",
+        "Generation": "7",
         "Picture": "pic801.png"
     },
     {
@@ -12829,6 +13630,7 @@
         "base_Sp_Attack": "90",
         "base_Sp_Defense": "90",
         "base_Speed": "125",
+        "Generation": "7",
         "Picture": "pic802.png"
     },
     {
@@ -12845,6 +13647,7 @@
         "base_Sp_Attack": "73",
         "base_Sp_Defense": "67",
         "base_Speed": "73",
+        "Generation": "7",
         "Picture": "pic803.png"
     },
     {
@@ -12861,6 +13664,7 @@
         "base_Sp_Attack": "127",
         "base_Sp_Defense": "73",
         "base_Speed": "121",
+        "Generation": "7",
         "Picture": "pic804.png"
     },
     {
@@ -12877,6 +13681,7 @@
         "base_Sp_Attack": "53",
         "base_Sp_Defense": "101",
         "base_Speed": "13",
+        "Generation": "7",
         "Picture": "pic805.png"
     },
     {
@@ -12893,6 +13698,7 @@
         "base_Sp_Attack": "151",
         "base_Sp_Defense": "79",
         "base_Speed": "107",
+        "Generation": "7",
         "Picture": "pic806.png"
     },
     {
@@ -12909,6 +13715,7 @@
         "base_Sp_Attack": "102",
         "base_Sp_Defense": "80",
         "base_Speed": "143",
+        "Generation": "7",
         "Picture": "pic807.png"
     },
     {
@@ -12925,6 +13732,7 @@
         "base_Sp_Attack": "55",
         "base_Sp_Defense": "35",
         "base_Speed": "34",
+        "Generation": "7",
         "Picture": "pic808.png"
     },
     {
@@ -12941,6 +13749,7 @@
         "base_Sp_Attack": "80",
         "base_Sp_Defense": "65",
         "base_Speed": "34",
+        "Generation": "7",
         "Picture": "pic809.png"
     }
 ]
