@@ -20,14 +20,6 @@ public partial class MainViewModel : ObservableObject
         myDOS.ConfigureScanner();
         myDOS.SerialBuffer.Changed += AddScannedPokemon;
     }
-    [RelayCommand]
-    async Task GoToDetailsPage(string data)
-    {
-        await Shell.Current.GoToAsync(nameof(DetailsPage),true,new Dictionary<string, object>
-        {
-            {"Databc",data }
-        });
-    }
 
     [RelayCommand]
     async Task GetPokemonsFromJson()

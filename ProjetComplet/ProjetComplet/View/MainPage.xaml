@@ -10,8 +10,6 @@
     <ContentPage.MenuBarItems>
         <MenuBarItem Text="File"
                      BindingContext="{Binding Path=BindingContext,Source={x:Reference MyPage}}">
-            <MenuFlyoutItem Text="Detail View"
-                            Command="{Binding GoToDetailsPageCommand}"/>
             <MenuFlyoutItem Text=" Load Json "
                             Command="{Binding GetPokemonsFromJsonCommand}"
                             CommandParameter="Details page"/>
