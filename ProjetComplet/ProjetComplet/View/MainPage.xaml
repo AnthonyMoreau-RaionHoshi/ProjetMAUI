@@ -89,7 +89,8 @@
             <RowDefinition Height="40"/>
             <RowDefinition Height="150"/>
             <RowDefinition Height="40"/>
-            <RowDefinition/>
+            <RowDefinition/> 
+            <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
         <BoxView Color="Black" />
         <Label Text="Scanned Pokemons"
@@ -170,6 +171,11 @@
                            IsRunning="{Binding IsBusy}"
                            IsVisible="{Binding IsBusy}"
                            Color="Red"/>
+        <BoxView Grid.Row="4"
+                 Color="Black" />
+        <Label Grid.Row="4"
+               Text="Pokedex: V1.0"
+               HorizontalOptions="End"/>
     </Grid>
     <!--<Grid RowSpacing="10"
           x:Name="myGrid">
