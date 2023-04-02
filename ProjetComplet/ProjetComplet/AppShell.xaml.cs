@@ -8,4 +8,9 @@ public partial class AppShell : Shell
 
 		Routing.RegisterRoute(nameof(DetailsPage), typeof(DetailsPage));
 	}
+
+    private void Button_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }

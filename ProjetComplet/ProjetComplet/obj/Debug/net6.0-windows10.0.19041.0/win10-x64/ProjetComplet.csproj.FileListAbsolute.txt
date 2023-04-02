@@ -2345,3 +2345,5 @@ C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pngwing.scale-100.png
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Pokemon_Solid.ttf

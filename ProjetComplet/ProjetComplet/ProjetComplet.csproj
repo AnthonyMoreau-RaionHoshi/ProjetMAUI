@@ -49,6 +49,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Fonts\Pokemon_Solid.ttf" />
 	  <None Remove="Resources\Images\001.png" />
 	  <None Remove="Resources\Images\002.png" />
 	  <None Remove="Resources\Images\003.png" />
@@ -859,6 +860,7 @@
 	  <None Remove="Resources\Images\808.png" />
 	  <None Remove="Resources\Images\809.png" />
 	  <None Remove="Resources\Images\image.png" />
+	  <None Remove="Resources\Images\pngwing.png" />
 	  <None Remove="Resources\Raw\Pokedex.json" />
 	</ItemGroup>
 

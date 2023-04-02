@@ -3,8 +3,11 @@ using System.IO.Ports;
 public partial class DeviceOrientationServices
 {
 	SerialPort mySerialPorts;
+
     public partial void ConfigureScanner() // partial car le contenu va être dév dans la partie spécifique à la platforme utilisé
     {
+        this.SerialBuffer = new();
+
 		this.mySerialPorts = new SerialPort();
 
         mySerialPorts.PortName = "COM6";
@@ -30,10 +33,10 @@ public partial class DeviceOrientationServices
     private void DataHandler(object sender, SerialDataReceivedEventArgs e)
     {
         SerialPort sp = (SerialPort)sender;
-        string data = "";
 
+        string data = "";
         data = sp.ReadTo("\r");
 
-        Globals.SerialBuffer.Enqueue(data);
+        this.SerialBuffer.Enqueue(data);
     }
 }
