@@ -12,6 +12,13 @@ public partial class MainViewModel : ObservableObject
     private bool isBusy = false;
     public ObservableCollection<Pokemon> Pokemons { get; set; } = new();
     public ObservableCollection<Pokemon> ScannedPokemon { get; set; } = new();
+    [ObservableProperty]
+    string myPokemonId;
+    [ObservableProperty]
+    string myPokemonName;
+    [ObservableProperty]
+    int myNewPokemonVisible = 0;
+    Pokemon myScannedPokemon;
     public ObservableCollection<string> AvailableTypes { get; } = new ObservableCollection<string> {"Flying","Grass","Fire","Water","Psychic","Electric","Bug","Normal","Poison","Ground","Rock","Fairy","Ghost","Ice","Fighting","Dark","Dragon","Steel"};
     public MainViewModel(MyModelsService myService)
     {
@@ -25,7 +32,7 @@ public partial class MainViewModel : ObservableObject
     async Task GetPokemonsFromJson()
     {
         if (Globals.PokemonList.Count== 0) {
-            isBusy = true;
+            IsBusy = true;
             try
             {
                 Globals.PokemonList = await myService.GetPokemons();
@@ -40,7 +47,7 @@ public partial class MainViewModel : ObservableObject
                 Pokemons.Add(pokemon);
             }
         }
-        isBusy= false;
+        IsBusy= false;
     }
     [RelayCommand]
     private async void SetFilter(string monType)
@@ -48,7 +55,7 @@ public partial class MainViewModel : ObservableObject
         Pokemons.Clear();
         if (Globals.PokemonList.Count != 0)
         {
-            isBusy = true;
+            IsBusy = true;
             if (monType == "ID")
             {
                 foreach (Pokemon pokemon in Globals.PokemonList)
@@ -69,25 +76,32 @@ public partial class MainViewModel : ObservableObject
         {
             await Application.Current.MainPage.DisplayAlert("Errors", "No pokemons found! Please load the JSON file", "OK");
         }
-        isBusy = false;
+        IsBusy = false;
     }
-    private async void AddScannedPokemon(Object sender, EventArgs myArgs)
+    partial void OnMyPokemonIdChanged(string value)
     {
-        DeviceOrientationServices.QueueBuffer myDOSLocal = (DeviceOrientationServices.QueueBuffer)sender;
-        string myPokemonName = myDOSLocal.Dequeue().ToString();
-
         if (Globals.PokemonList.Count != 0)
         {
-            Pokemon myScannedPokemon = Globals.PokemonList.Where(Pokemon => Pokemon.name_english == myPokemonName).First();
-            if (myScannedPokemon != null)
+            MyNewPokemonVisible = 100;
+            Pokemon myScannedPokemonTemp = Globals.PokemonList.Where(Pokemon => Pokemon.id == value).First();
+            if (myScannedPokemonTemp != null)
             {
-                ScannedPokemon.Add(myScannedPokemon);
+                MyPokemonName = myScannedPokemonTemp.name_english;
+                myScannedPokemon = myScannedPokemonTemp;
             }
         }
-        else
-        {
-            await Application.Current.MainPage.DisplayAlert("Errors", "No pokemons found! Please load the JSON file", "OK");
-        }
+    }
+    private void AddScannedPokemon(Object sender, EventArgs myArgs)
+    {
+        DeviceOrientationServices.QueueBuffer myDOSLocal = (DeviceOrientationServices.QueueBuffer)sender;
+        MyPokemonId = myDOSLocal.Dequeue().ToString();
+    }
+
+    [RelayCommand]
+    private void AddPokemonOnList()
+    {
+        ScannedPokemon.Add(myScannedPokemon);
+        MyNewPokemonVisible = 0;
     }
 
     [RelayCommand]
@@ -96,6 +110,7 @@ public partial class MainViewModel : ObservableObject
         
         Random myRdm = new Random();
         int myRdmPokId = myRdm.Next(1, 810);
+        MyPokemonId = myRdmPokId+"";
         if (Globals.PokemonList.Count != 0) 
         {
             Pokemon myScannedPokemon = Globals.PokemonList.Where(Pokemon => Pokemon.id == myRdmPokId.ToString()).First();
