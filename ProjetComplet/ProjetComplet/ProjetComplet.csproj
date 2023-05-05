@@ -867,8 +867,11 @@
 	  <None Remove="Resources\Images\807.png" />
 	  <None Remove="Resources\Images\808.png" />
 	  <None Remove="Resources\Images\809.png" />
+	  <None Remove="Resources\Images\codebar.png" />
 	  <None Remove="Resources\Images\image.png" />
+	  <None Remove="Resources\Images\outlinepokemongif.gif" />
 	  <None Remove="Resources\Images\pngwing.png" />
+	  <None Remove="Resources\Images\pokemongif.gif" />
 	  <None Remove="Resources\Raw\Pokedex.json" />
 	</ItemGroup>
 
@@ -881,6 +884,12 @@
 	  <Compile Update="View\MainPage.xaml.cs">
 	    <DependentUpon>MainPage.xaml</DependentUpon>
 	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="View\LoginPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>

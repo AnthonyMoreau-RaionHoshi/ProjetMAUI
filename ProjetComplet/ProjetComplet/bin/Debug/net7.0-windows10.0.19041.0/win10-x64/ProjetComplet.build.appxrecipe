@@ -871,6 +871,15 @@
     <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\codebar.scale-100.png">
+      <PackagePath>codebar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\codebar2.scale-100.png">
+      <PackagePath>codebar2.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\outlinepokemongif.scale-100.gif">
+      <PackagePath>outlinepokemongif.scale-100.gif</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pic001.scale-100.png">
       <PackagePath>pic001.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -3306,6 +3315,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pngwing.scale-100.png">
       <PackagePath>pngwing.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pokemongif.scale-100.gif">
+      <PackagePath>pokemongif.scale-100.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pokemongif.scale-100.gif~">
+      <PackagePath>pokemongif.scale-100.gif~</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

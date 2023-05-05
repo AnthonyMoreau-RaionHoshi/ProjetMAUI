@@ -1131,3 +1131,8 @@ C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pokemongif.scale-100.gif
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pokemongif.scale-100.gif~
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\outlinepokemongif.scale-100.gif
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\codebar.scale-100.png
+C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\codebar2.scale-100.png
