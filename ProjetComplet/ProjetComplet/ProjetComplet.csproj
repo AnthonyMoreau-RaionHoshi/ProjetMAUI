@@ -871,7 +871,7 @@
 	  <None Remove="Resources\Images\image.png" />
 	  <None Remove="Resources\Images\outlinepokemongif.gif" />
 	  <None Remove="Resources\Images\pngwing.png" />
-	  <None Remove="Resources\Images\pokemongif.gif" />
+	  <None Remove="Resources\Images\pokemonGif.gif" />
 	  <None Remove="Resources\Raw\Pokedex.json" />
 	</ItemGroup>
 

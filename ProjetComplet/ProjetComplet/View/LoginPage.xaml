@@ -5,13 +5,13 @@
              Title="LoginPage">
     <VerticalStackLayout  VerticalOptions="Center">
 
-        <Image  Source="outlinepokemongif.gif"
+        <Image  Source="pokemongif.gif"
                 HeightRequest="200" 
                 HorizontalOptions="Center" 
                 IsAnimationPlaying="True" />
         <VerticalStackLayout Spacing="5">
             <Label Text="Welcome" FontFamily="PokemonFont" FontSize="32" TextColor="White" HorizontalTextAlignment="Center" />
-            <Label Text="Scan you'r ID student card to login" FontFamily="PokemonFont" FontSize="22" TextColor="White" HorizontalTextAlignment="Center" />
+            <Label Text="Scan your ID student card to login" FontFamily="PokemonFont" FontSize="22" TextColor="White" HorizontalTextAlignment="Center" />
             <Image  Source="codebar2.png"
                 HeightRequest="200" 
                 HorizontalOptions="Center" 
