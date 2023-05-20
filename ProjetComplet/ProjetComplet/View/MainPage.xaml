@@ -10,9 +10,6 @@
     <ContentPage.MenuBarItems>
         <MenuBarItem Text="File"
                      BindingContext="{Binding Path=BindingContext,Source={x:Reference MyPage}}">
-            <MenuFlyoutItem Text=" Load Json "
-                            Command="{Binding GetPokemonsFromJsonCommand}"
-                            CommandParameter="Details page"/>
             <MenuFlyoutSubItem Text=" Filter by">
                 <MenuFlyoutItem Command="{Binding SetFilterCommand}"
                                 CommandParameter="ID"
@@ -79,6 +76,12 @@
                      BindingContext="{Binding Path=BindingContext,Source={x:Reference MyPage}}">
             <MenuFlyoutItem Command="{Binding SimulateScannedPokemonCommand}"
                             Text="Scan!">
+            </MenuFlyoutItem>
+        </MenuBarItem>
+        <MenuBarItem  Text="Admin features"
+                      IsEnabled="{Binding IsVisible}">
+            <MenuFlyoutItem Command="{Binding GoToUserPageCommand}"
+                            Text="Users ">
             </MenuFlyoutItem>
         </MenuBarItem>
     </ContentPage.MenuBarItems>

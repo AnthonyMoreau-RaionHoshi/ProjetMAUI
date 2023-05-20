@@ -5,17 +5,33 @@
              Title="LoginPage">
     <VerticalStackLayout  VerticalOptions="Center">
 
-        <Image  Source="pokemongif.gif"
-                HeightRequest="200" 
-                HorizontalOptions="Center" 
-                IsAnimationPlaying="True" />
+        <Image Source="pokemongif.gif"
+               HeightRequest="200" 
+               HorizontalOptions="Center" 
+               IsAnimationPlaying="True" />
         <VerticalStackLayout Spacing="5">
             <Label Text="Welcome" FontFamily="PokemonFont" FontSize="32" TextColor="White" HorizontalTextAlignment="Center" />
             <Label Text="Scan your ID student card to login" FontFamily="PokemonFont" FontSize="22" TextColor="White" HorizontalTextAlignment="Center" />
-            <Image  Source="codebar2.png"
-                HeightRequest="200" 
-                HorizontalOptions="Center" 
-                IsAnimationPlaying="True" />
+            <Entry x:Name="entry"
+                   Placeholder="Scan your ID card" 
+                   WidthRequest="500"
+                   Text="{Binding MyUserID}"
+                   />
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <Image Source="codebar2.png"
+                       HeightRequest="150" 
+                       HorizontalOptions="Center" 
+                       IsAnimationPlaying="True" />
+                <Button HeightRequest="120" 
+                        TextColor="#fccf00" 
+                        BackgroundColor="#2469b2"
+                        HorizontalOptions="Center" 
+                        Text="Continue !" 
+                        FontFamily="PokemonFont" 
+                        FontSize="22"
+                        Command="{Binding LogInActionCommand}"
+                        CommandParameter="{Binding MyUserID}"/>
+            </HorizontalStackLayout>
         </VerticalStackLayout>
     </VerticalStackLayout>
 </ContentPage>

@@ -1,4 +1,6 @@
-﻿namespace ProjetComplet;
+﻿using ProjetComplet.View;
+
+namespace ProjetComplet;
 
 public partial class App : Application
 {
@@ -7,5 +9,6 @@ public partial class App : Application
 		InitializeComponent();
 
 		MainPage = new AppShell();
+
 	}
 }

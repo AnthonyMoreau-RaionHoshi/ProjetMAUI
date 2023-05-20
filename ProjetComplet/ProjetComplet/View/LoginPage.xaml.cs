@@ -8,5 +8,10 @@ public partial class LoginPage : ContentPage
         InitializeComponent(); 
         myLoginviewModel = viewModel;
         BindingContext = viewModel;
+
+    }
+    protected override void OnNavigatedTo(NavigatedToEventArgs Args)
+    {
+        Globals.activePage = "LoginPage";
     }
 }

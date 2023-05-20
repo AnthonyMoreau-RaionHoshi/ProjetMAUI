@@ -2,33 +2,36 @@ namespace ProjetComplet.Services;
 using System.IO.Ports;
 public partial class DeviceOrientationServices
 {
-	SerialPort mySerialPorts;
+	static SerialPort mySerialPorts;
 
     public partial void ConfigureScanner() // partial car le contenu va être dév dans la partie spécifique à la platforme utilisé
     {
-        this.SerialBuffer = new();
+        SerialBuffer = new();
 
-		this.mySerialPorts = new SerialPort();
+        
+            mySerialPorts = new SerialPort();
 
-        mySerialPorts.PortName = "COM6";
-        mySerialPorts.BaudRate = 9600;
-        mySerialPorts.Parity = Parity.None;
-        mySerialPorts.DataBits = 8;
-        mySerialPorts.StopBits = StopBits.One;
+            mySerialPorts.PortName = "COM6";
+            mySerialPorts.BaudRate = 9600;
+            mySerialPorts.Parity = Parity.None;
+            mySerialPorts.DataBits = 8;
+            mySerialPorts.StopBits = StopBits.One;
 
-        mySerialPorts.ReadTimeout= 1000;
-        mySerialPorts.WriteTimeout= 1000;
+            mySerialPorts.ReadTimeout = 1000;
+            mySerialPorts.WriteTimeout = 1000;
 
-        mySerialPorts.DataReceived += new SerialDataReceivedEventHandler(DataHandler);
-        try
-        {
-            mySerialPorts.Open();
-        }
+            mySerialPorts.DataReceived += new SerialDataReceivedEventHandler(DataHandler);
 
-        catch (Exception ex)
-        {
-            Shell.Current.DisplayAlert("Error!", ex.Message, "Ok");
-        }
+            try
+            {
+                mySerialPorts.Open();
+            }
+
+            catch (Exception ex)
+            {
+                Shell.Current.DisplayAlert("Error!", ex.Message, "Ok");
+            }
+        
     }
     private void DataHandler(object sender, SerialDataReceivedEventArgs e)
     {
@@ -37,6 +40,6 @@ public partial class DeviceOrientationServices
         string data = "";
         data = sp.ReadTo("\r");
 
-        this.SerialBuffer.Enqueue(data);
+        Globals.myDOS.SerialBuffer.Enqueue(data);
     }
 }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetComplet.View.RegisterPage"
+             Title="RegisterPage">
+    <VerticalStackLayout  VerticalOptions="Center">
+        <Label Text="Nom d'utilisateur" />
+        <Entry x:Name="UserNameEntry" Placeholder="Entrer le nom d'utilisateur" HorizontalTextAlignment="Center"  Text="{Binding MyUserName}"/>
+
+        <Label Text="Mot de passe" />
+        <Entry x:Name="PasswordEntry" Placeholder="Entrer le mot de passe" IsPassword="true"  HorizontalTextAlignment="Center" Text="{Binding MyPassWord}"/>
+
+        <Button Text="Se connecter" Command="{Binding GoToMainPageCommand}"/>
+    </VerticalStackLayout>
+</ContentPage>
