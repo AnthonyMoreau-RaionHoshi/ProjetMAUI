@@ -78,50 +78,62 @@
                             Text="Scan!">
             </MenuFlyoutItem>
         </MenuBarItem>
-        <MenuBarItem  Text="Admin features"
-                      IsEnabled="{Binding IsVisible}">
-            <MenuFlyoutItem Command="{Binding GoToUserPageCommand}"
-                            Text="Users ">
-            </MenuFlyoutItem>
-        </MenuBarItem>
     </ContentPage.MenuBarItems>
     <Grid x:Name="myGrid">
         <Grid.RowDefinitions>
             <RowDefinition Height="{Binding MyNewPokemonVisible}"/>
+            <RowDefinition Height="{Binding MyAdminVisible}"/>
             <RowDefinition Height="40"/>
             <RowDefinition Height="150"/>
             <RowDefinition Height="40"/>
             <RowDefinition/>
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
+
         <BoxView Color="Black"/>
-            <HorizontalStackLayout
-                   VerticalOptions="Center"
-                   HorizontalOptions="Center">
-                <Label Text="{Binding MyPokemonName, StringFormat='{0} is comming'}"
-                       FontFamily="PokemonFont"
-                       VerticalTextAlignment="Center"
-                       HorizontalTextAlignment="Center"
-                       FontSize="20"
-                       IsVisible="{Binding MyNewPokemonVisible}"/>
-                <Button Text="Validate"
-                       FontFamily="PokemonFont"
-                       FontSize="20"
-                       IsVisible="{Binding MyNewPokemonVisible}"
-                       Command="{Binding AddPokemonOnListCommand}"/>
-            </HorizontalStackLayout>
+        <HorizontalStackLayout
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Spacing="15">
+            <Label Text="{Binding MyPokemonName, StringFormat='{0} is comming'}"
+                    FontFamily="PokemonFont"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center"
+                    FontSize="20"
+                    IsVisible="{Binding MyNewPokemonVisible}"/>
+            <Button Text="Validate"
+                    FontFamily="PokemonFont"
+                    FontSize="20"
+                    IsVisible="{Binding MyNewPokemonVisible}"
+                    Command="{Binding AddPokemonOnListCommand}"/>
+        </HorizontalStackLayout>
+        <BoxView  Color="Black"
+                  Grid.Row="1"/>
+        <HorizontalStackLayout
+                VerticalOptions="Center"
+                HorizontalOptions="Start"
+                Margin="15,0,0,0"
+                Grid.Row="1"
+                Spacing="15">
+            <Label Text="Admin features"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Start"
+                    FontSize="20"/>
+            <Button Text="See users"
+                    Command="{Binding GoToUserPageCommand}"/>
+        </HorizontalStackLayout>
         <BoxView Color="Black"
-                 Grid.Row="1"/>
+                 Grid.Row="2"/>
         <Label Text="Scanned Pokemons"
                FontFamily="PokemonFont"
                VerticalTextAlignment="Center"
                HorizontalTextAlignment="Center"
                FontSize="20"
-               Grid.Row="1"/>
+               Grid.Row="2"/>
         <BoxView Color="Red"
-                 Grid.Row="2" />
+                 Grid.Row="3" />
         <ScrollView x:Name="myScannedPokemonScrollView"
-                    Grid.Row="2">
+                    Grid.Row="3">
             <FlexLayout BindableLayout.ItemsSource="{Binding ScannedPokemon}"
                         Wrap="Wrap"
                         JustifyContent="Start"
@@ -148,17 +160,17 @@
                 </BindableLayout.ItemTemplate>
             </FlexLayout>
         </ScrollView>
-        <BoxView Grid.Row="3"
+        <BoxView Grid.Row="4"
                  Color="Black" />
         <Label Text="Pokedex"
-               Grid.Row="3"
+               Grid.Row="4"
                FontFamily="PokemonFont"
                VerticalTextAlignment="Center"
                HorizontalTextAlignment="Center"
                FontSize="20"/>
-        <BoxView Grid.Row="4"
+        <BoxView Grid.Row="5"
                  Color="White" />
-        <ScrollView Grid.Row="4">
+        <ScrollView Grid.Row="5">
             <FlexLayout BindableLayout.ItemsSource="{Binding Pokemons}"
                         Wrap="Wrap"
                         JustifyContent="Start"
@@ -185,16 +197,16 @@
                 </BindableLayout.ItemTemplate>
             </FlexLayout>
         </ScrollView>
-        <ActivityIndicator Grid.Row="4"
+        <ActivityIndicator Grid.Row="5"
                            HorizontalOptions="Center"
                            VerticalOptions="Center"
                            IsRunning="{Binding IsBusy}"
                            IsVisible="{Binding IsBusy}"
                            Color="Red"/>
-        <BoxView Grid.Row="5"
+        <BoxView Grid.Row="7"
                  Color="Black" />
-        <Label Grid.Row="5"
-               Text="Pokedex: V1.0"
+        <Label Grid.Row="7"
+               Text="Pokedex: V2.0"
                TextColor="White"
                HorizontalOptions="End"/>
     </Grid>
