@@ -19,18 +19,6 @@ public partial class UserViewModel : ObservableObject
     [NotifyPropertyChangedFor(nameof(IsNotBusy))]
     bool isBusy;
     public bool IsNotBusy => !IsBusy;
-    [RelayCommand]
-    async Task ReadAccess()
-    {
-        try
-        {
-            await MyDBServices.ReadAccessTable();
-        }
-        catch (Exception ex) 
-        {
-            await Shell.Current.DisplayAlert("DataBase", ex.Message, "ok");
-        }
-    }
 
     [RelayCommand]
     async Task FillUsersFromDB()
@@ -62,5 +50,13 @@ public partial class UserViewModel : ObservableObject
         }
 
         IsBusy = false;
+    }
+    [RelayCommand]
+    async void DeleteUser(string UserToDelete)
+    {
+        await MyDBServices.DeleteUser(UserToDelete);
+        await MyDBServices.FillUserTable();
+        User myUserCurrent = ShownList.Where(User => User.UserName ==UserToDelete).First();
+        ShownList.Remove(myUserCurrent);
     }
 }
