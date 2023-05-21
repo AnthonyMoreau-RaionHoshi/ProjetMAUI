@@ -56,7 +56,6 @@ public partial class UserViewModel : ObservableObject
     {
         await MyDBServices.DeleteUser(UserToDelete);
         await MyDBServices.FillUserTable();
-        User myUserCurrent = ShownList.Where(User => User.UserName ==UserToDelete).First();
-        ShownList.Remove(myUserCurrent);
+        FillUsersFromDB();
     }
 }

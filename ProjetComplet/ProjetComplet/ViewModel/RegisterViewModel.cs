@@ -43,5 +43,9 @@ public partial class RegisterViewModel : ObservableObject
                 await Shell.Current.DisplayAlert("Page router", ex.Message, "OK");
             }
         }
+        else
+        {
+            await Application.Current.MainPage.DisplayAlert("Errors", "Please, fill in all the gaps", "OK");
+        }
     }
 }

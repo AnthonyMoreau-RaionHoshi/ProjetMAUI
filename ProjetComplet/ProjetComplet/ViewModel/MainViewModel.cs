@@ -2,6 +2,8 @@
 using ProjetComplet.Services;
 using ProjetComplet.View;
 using System.Collections.ObjectModel;
+using System.Data;
+
 namespace ProjetComplet.ViewModel;
 
 public partial class MainViewModel : ObservableObject
@@ -24,19 +26,44 @@ public partial class MainViewModel : ObservableObject
     Pokemon myScannedPokemon;
     [ObservableProperty]
     bool isVisible;
-    public ObservableCollection<string> AvailableTypes { get; } = new ObservableCollection<string> {"Flying","Grass","Fire","Water","Psychic","Electric","Bug","Normal","Poison","Ground","Rock","Fairy","Ghost","Ice","Fighting","Dark","Dragon","Steel"};
+    UserManagementServices myUserDBService;
     public MainViewModel(MyModelsService myService)
     {
         this.myService = myService;
+        myUserDBService = new UserManagementServices();
+        myUserDBService.ConfigTools();
         Globals.myDOS.SerialBuffer.Changed += AddScannedPokemon;
-        GetPokemonsFromJson();
         if (Globals.currentUser.UserAccessType == 1)
             myAdminVisible = 60;
+        fillScannedPokemons();
     }
+
+    private async void fillScannedPokemons()
+    {
+        await GetPokemonsFromJson();
+        myUserDBService.FillUserTable();
+        if (Globals.UserSet.Tables["Owner"].Rows.Count > 0)
+        {
+            foreach (DataRow myPokemon in Globals.UserSet.Tables["Owner"].Rows)
+            {
+                if (myPokemon["Owner_ID"].Equals(Globals.currentUser.User_ID))
+                {
+                    if (Globals.PokemonList.Count != 0)
+                    {
+                        Pokemon myScannedPokemonTemp = Globals.PokemonList.Where(Pokemon => Pokemon.id == myPokemon["Pokemon_ID"].ToString()).First();
+                        ScannedPokemon.Add(myScannedPokemonTemp);
+                    }
+                }
+            }
+        }
+    }
+
     async Task GetPokemonsFromJson()
     {
-        if (Globals.PokemonList.Count== 0) {
-            IsBusy = true;
+        Globals.PokemonList.Clear();
+        IsBusy = true;
+        if (Globals.PokemonList.Count <= 0)
+        {
             try
             {
                 Globals.PokemonList = await myService.GetPokemons();
@@ -45,13 +72,14 @@ public partial class MainViewModel : ObservableObject
             {
                 await Shell.Current.DisplayAlert("Error!", ex.Message, "Ok");
             }
-
+                
             foreach (Pokemon pokemon in Globals.PokemonList)
             {
                 Pokemons.Add(pokemon);
             }
         }
-        IsBusy= false;
+        
+        IsBusy = false;
     }
     [RelayCommand]
     private async void SetFilter(string monType)
@@ -107,10 +135,12 @@ public partial class MainViewModel : ObservableObject
             MyPokemonId = myDOSLocal.Dequeue().ToString();
     }
     [RelayCommand]
-    private void AddPokemonOnList()
+    private async void AddPokemonOnList()
     {
         ScannedPokemon.Add(myScannedPokemon);
+        await myUserDBService.InsertPokemon(Globals.currentUser.User_ID,myScannedPokemon.id);
         MyNewPokemonVisible = 0;
+        await myUserDBService.ReadOwnerTable();
     }
     [RelayCommand]
     private async void GoToUserPage()

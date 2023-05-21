@@ -20,7 +20,7 @@
                                 <Button Text="Delete" 
                                         HorizontalOptions="EndAndExpand"
                                         Command="{Binding DeleteUserCommand, Source={RelativeSource AncestorType={x:Type viewmodel:UserViewModel}}}"
-                                        CommandParameter="{Binding UserName}" />
+                                        CommandParameter="{Binding User_ID}" />
                             </StackLayout>
                         </Border>
                     </DataTemplate>

@@ -12,7 +12,15 @@ public partial class UserManagementServices
     {
 
     }
+    public async Task ReadOwnerTable()
+    {
+
+    }
     public async Task FillUserTable()
+    {
+
+    }
+    public async Task InsertPokemon(string Owner_ID, string Pokemon_ID)
     {
 
     }

@@ -1,68 +1,88 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ProjetComplet.Services;
-
-public partial class UserManagementServices
+namespace ProjetComplet.Services
 {
-    internal partial void ConfigTools();
-}
-public class CreateUserTables
-{
-    public CreateUserTables()
+    public partial class UserManagementServices
     {
-        DataTable UserTable = new();
-        DataTable AccessTable = new();
-        
-        DataColumn User_ID          = new DataColumn("User_ID",System.Type.GetType("System.String"));
-        DataColumn UserName         = new DataColumn("UserName", System.Type.GetType("System.String"));
-        DataColumn UserPassword     = new DataColumn("UserPassword", System.Type.GetType("System.String"));
-        DataColumn AccessType       = new DataColumn("UserAccessType", System.Type.GetType("System.Int16"));
+        internal partial void ConfigTools();
+    }
 
-        DataColumn Access_ID        = new DataColumn("Access_ID", System.Type.GetType("System.Int16"));
-        DataColumn AccessName       = new DataColumn("AccessName", System.Type.GetType("System.String"));
-        DataColumn CreateObject     = new DataColumn("CreateObject", System.Type.GetType("System.Boolean"));
-        DataColumn DestroyObject    = new DataColumn("DestroyObject", System.Type.GetType("System.Boolean"));
-        DataColumn ModifyObject     = new DataColumn("ModifyObject", System.Type.GetType("System.Boolean"));
-        DataColumn ChangeUserRights = new DataColumn("ChangeUserRights", System.Type.GetType("System.Boolean"));
+    public class CreateUserTables
+    {
+        public CreateUserTables()
+        {
+            DataTable UserTable = new DataTable();
+            DataTable AccessTable = new DataTable();
+            DataTable OwnerTable = new DataTable();
 
-        //UserTable
-        UserTable.TableName= "Users";
-        
-        User_ID.Unique=true;
-        UserTable.Columns.Add(User_ID);
-        UserName.Unique=true;
-        UserTable.Columns.Add(UserName);
-        UserTable.Columns.Add(UserPassword);
-        UserTable.Columns.Add(AccessType);
+            DataColumn User_ID = new DataColumn("User_ID", typeof(string));
+            DataColumn UserName = new DataColumn("UserName", typeof(string));
+            DataColumn UserPassword = new DataColumn("UserPassword", typeof(string));
+            DataColumn AccessType = new DataColumn("UserAccessType", typeof(short));
 
-        //AccessTable
-        AccessTable.TableName= "Access";
+            DataColumn Owner_ID = new DataColumn("Owner_ID", typeof(string));
+            DataColumn Pokemon_ID = new DataColumn("Pokemon_ID", typeof(string));
+            DataColumn Register_ID = new DataColumn("Register_ID", typeof(short));
 
-        Access_ID.AutoIncrement = true;
-        Access_ID.Unique = true;
-        AccessTable.Columns.Add(Access_ID);
 
-        AccessName.Unique = true;
-        AccessTable.Columns.Add(AccessName);
+            DataColumn Access_ID = new DataColumn("Access_ID", typeof(short));
+            DataColumn AccessName = new DataColumn("AccessName", typeof(string));
+            DataColumn CreateObject = new DataColumn("CreateObject", typeof(bool));
+            DataColumn DestroyObject = new DataColumn("DestroyObject", typeof(bool));
+            DataColumn ModifyObject = new DataColumn("ModifyObject", typeof(bool));
+            DataColumn ChangeUserRights = new DataColumn("ChangeUserRights", typeof(bool));
 
-        AccessTable.Columns.Add(CreateObject);
-        AccessTable.Columns.Add(DestroyObject);
-        AccessTable.Columns.Add(ModifyObject);
-        AccessTable.Columns.Add(ChangeUserRights);
+            // UserTable
+            UserTable.TableName = "Users";
 
-        Globals.UserSet.Tables.Add(AccessTable);
-        Globals.UserSet.Tables.Add(UserTable);
+            User_ID.Unique = true;
+            UserTable.Columns.Add(User_ID);
+            UserName.Unique = true;
+            UserTable.Columns.Add(UserName);
+            UserTable.Columns.Add(UserPassword);
+            UserTable.Columns.Add(AccessType);
 
-        DataColumn parentColumn = Globals.UserSet.Tables["Access"].Columns["Access_ID"];
-        DataColumn childColumn = Globals.UserSet.Tables["Users"].Columns["UserAccessType"];
+            // AccessTable
+            AccessTable.TableName = "Access";
 
-        DataRelation relation = new DataRelation("Access2User", parentColumn, childColumn);
+            Access_ID.AutoIncrement = true;
+            Access_ID.Unique = true;
+            AccessTable.Columns.Add(Access_ID);
 
-        Globals.UserSet.Tables["Users"].ParentRelations.Add(relation);
+            AccessName.Unique = true;
+            AccessTable.Columns.Add(AccessName);
+
+            AccessTable.Columns.Add(CreateObject);
+            AccessTable.Columns.Add(DestroyObject);
+            AccessTable.Columns.Add(ModifyObject);
+            AccessTable.Columns.Add(ChangeUserRights);
+
+            // OwnerTable
+            OwnerTable.TableName = "Owner";
+            Register_ID.AutoIncrement = true;
+            Register_ID.Unique = true;
+
+            OwnerTable.Columns.Add(Owner_ID);
+            OwnerTable.Columns.Add(Pokemon_ID);
+            OwnerTable.Columns.Add(Register_ID);
+
+            Globals.UserSet.Tables.Add(AccessTable);
+            Globals.UserSet.Tables.Add(UserTable);
+            Globals.UserSet.Tables.Add(OwnerTable);
+
+            DataColumn parentColumn = Globals.UserSet.Tables["Access"].Columns["Access_ID"];
+            DataColumn childColumn = Globals.UserSet.Tables["Users"].Columns["UserAccessType"];
+
+            DataRelation relation = new DataRelation("Access2User", parentColumn, childColumn);
+
+            DataColumn UserColumn = Globals.UserSet.Tables["Users"].Columns["User_ID"];
+            DataColumn OwnerColumn = Globals.UserSet.Tables["Owner"].Columns["Owner_ID"];
+
+            DataRelation ownerRelation = new DataRelation("User2Owner", UserColumn, OwnerColumn);
+
+            Globals.UserSet.Tables["Owner"].ParentRelations.Add(ownerRelation);
+            Globals.UserSet.Tables["Users"].ParentRelations.Add(relation);
+        }
     }
 }
