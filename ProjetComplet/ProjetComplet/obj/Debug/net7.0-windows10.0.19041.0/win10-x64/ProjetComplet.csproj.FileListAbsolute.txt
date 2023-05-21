@@ -1356,7 +1356,6 @@ C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\ne
 C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.323.6910.dll
 C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -2284,3 +2283,14 @@ C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.ProtectedData.dll
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Permissions.dll
 C:\Users\antho\Documents\GitHub\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.Extensions.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.OleDb.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.EventLog.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Common.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Permissions.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.Extensions.dll
+C:\Users\Damien\source\repos\ProjetMAUI\ProjetComplet\ProjetComplet\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.523.17405.dll

@@ -1,1 +1,2 @@
-Mettre le dossier QualityServices sur le bureau pour que tout fonctionne
+- Mettre le dossier QualityServices sur le bureau pour que tout fonctionne
+- Pour se connecter en admin, il faut entrer 5-03042301-09
