@@ -1,0 +1,1 @@
+Mettre le dossier QualityServices sur le bureau pour que tout fonctionne
